@@ -1,0 +1,4 @@
+voto
+*candidato | *eleitor
+-alistar   | -cadastrar
+-votar     | -votar
