@@ -1,483 +1,181 @@
-2025-07-27 22:29:14,999 - INFO - iniciando o sistema!
-2025-07-27 22:29:15,000 - INFO - criando conex�es!
-2025-07-27 22:38:52,934 - INFO - criando conex�es!
-2025-07-27 22:38:52,934 - WARNING - criando ou editando a tabela candidatos
-2025-07-27 22:38:52,935 - INFO - salvar a sess�o
-2025-07-27 22:38:52,935 - INFO - criando conex�es!
-2025-07-27 22:39:27,169 - INFO - criando conex�es!
-2025-07-27 22:39:27,169 - WARNING - criando ou editando a tabela candidatos
-2025-07-27 22:39:27,169 - INFO - salvar a sess�o
-2025-07-27 22:39:27,170 - INFO - criando conex�es!
-2025-07-27 22:39:27,170 - INFO - Aqui est�o todos os candidatos dispon�veis \U0001f447:
-2025-07-27 22:39:27,207 - INFO -  lista de candidatos:
-2025-07-27 22:40:18,010 - INFO - In�cio do processo.
-2025-07-27 22:40:18,010 - WARNING - Valor inesperado.
-2025-07-27 22:40:18,011 - ERROR - Erro ao conectar.
-2025-07-27 22:40:18,011 - CRITICAL - Falha geral no sistema.
-2025-07-27 22:40:18,011 - INFO - testando!
-2025-07-27 22:40:18,011 - INFO - criando conex�es!
-2025-07-27 22:40:18,011 - WARNING - criando ou editando a tabela candidatos
-2025-07-27 22:40:18,012 - INFO - salvar a sess�o
-2025-07-27 22:40:18,012 - INFO - criando conex�es!
-2025-07-27 22:40:18,013 - INFO - Aqui est�o todos os candidatos dispon�veis \U0001f447:
-2025-07-27 22:40:18,013 - INFO -  lista de candidatos:
-27/07/2025 22:51:05 - DEBUG - iniciando o sistema!
-27/07/2025 22:51:05 - DEBUG - criando as conexões
-27/07/2025 22:51:05 - INFO - criando conexões!
-27/07/2025 22:51:05 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 22:51:05 - INFO - salvar a sessão
-27/07/2025 22:51:05 - INFO - criando conexões!
-27/07/2025 22:51:05 - INFO - Aqui estão todos os candidatos disponíveis 👇:
-27/07/2025 22:51:05 - INFO -  lista de candidatos:
-27/07/2025 23:00:52 - DEBUG - iniciando o sistema!
-27/07/2025 23:00:52 - DEBUG - criando as conexões
-27/07/2025 23:00:52 - INFO - criando conexões!
-27/07/2025 23:00:52 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:00:52 - INFO - salvar a sessão
-27/07/2025 23:00:52 - DEBUG - conectando ao base de dados
-27/07/2025 23:00:52 - INFO - criando conexões!
-27/07/2025 23:00:52 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:00:52 - INFO - Aqui estão todos os candidatos disponíveis 👇:
-27/07/2025 23:00:52 - INFO - 🚫 Nenhum candidato ainda cadastrado
-27/07/2025 23:00:52 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:03:16 - DEBUG - iniciando o sistema!
-27/07/2025 23:03:16 - DEBUG - criando as conexões
-27/07/2025 23:03:16 - INFO - criando conexões!
-27/07/2025 23:03:16 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:03:16 - INFO - salvar a sessão
-27/07/2025 23:03:16 - INFO - # Alistamento de Candidatos
-27/07/2025 23:03:16 - DEBUG - conectando ao base de dados
-27/07/2025 23:03:16 - INFO - criando conexões!
-27/07/2025 23:03:52 - INFO - ✅ Candidatos cadastrado com sucesso!
-27/07/2025 23:03:52 - WARNING - fechando as conexoes
-27/07/2025 23:03:52 - DEBUG - conectando ao base de dados
-27/07/2025 23:03:52 - INFO - criando conexões!
-27/07/2025 23:03:52 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:03:52 - INFO - Aqui estão todos os candidatos disponíveis 👇:
-27/07/2025 23:03:52 - INFO -  lista de candidatos:
-27/07/2025 23:03:52 - INFO - ID| NOME | TELEFONE | PARTIDO | EMAIL
-27/07/2025 23:03:52 - INFO - 1| joshua |921186206|unita|joshuacosta120@gmail.com
-27/07/2025 23:03:52 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:22:57 - DEBUG - iniciando o sistema!
-27/07/2025 23:22:57 - DEBUG - criando as conexões
-27/07/2025 23:22:57 - INFO - criando conexões!
-27/07/2025 23:22:57 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:22:58 - INFO - salvar a sessão
-27/07/2025 23:22:58 - INFO - # Alistamento de Candidatos
-27/07/2025 23:22:58 - DEBUG - conectando ao base de dados
-27/07/2025 23:22:58 - INFO - criando conexões!
-27/07/2025 23:22:58 - INFO - receber tais dados
-27/07/2025 23:30:28 - DEBUG - iniciando o sistema!
-27/07/2025 23:30:28 - DEBUG - criando as conexões
-27/07/2025 23:30:28 - INFO - criando conexões!
-27/07/2025 23:30:28 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:30:28 - INFO - salvar a sessão
-27/07/2025 23:30:28 - INFO - # Alistamento de Candidatos
-27/07/2025 23:30:28 - DEBUG - conectando ao base de dados
-27/07/2025 23:30:28 - INFO - criando conexões!
-27/07/2025 23:31:36 - DEBUG - iniciando o sistema!
-27/07/2025 23:31:36 - DEBUG - criando as conexões
-27/07/2025 23:31:36 - INFO - criando conexões!
-27/07/2025 23:31:36 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:31:36 - INFO - salvar a sessão
-27/07/2025 23:31:36 - INFO - # Alistamento de Candidatos
-27/07/2025 23:31:36 - DEBUG - conectando ao base de dados
-27/07/2025 23:31:36 - INFO - criando conexões!
-27/07/2025 23:32:08 - DEBUG - iniciando o sistema!
-27/07/2025 23:32:08 - DEBUG - criando as conexões
-27/07/2025 23:32:08 - INFO - criando conexões!
-27/07/2025 23:32:08 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:32:08 - INFO - salvar a sessão
-27/07/2025 23:32:08 - INFO - # Alistamento de Candidatos
-27/07/2025 23:32:08 - DEBUG - conectando ao base de dados
-27/07/2025 23:32:08 - INFO - criando conexões!
-27/07/2025 23:32:23 - INFO - ✅ Candidatos cadastrado com sucesso!
-27/07/2025 23:32:23 - WARNING - fechando as conexoes
-27/07/2025 23:32:23 - INFO - alistamentos de votos
-27/07/2025 23:32:23 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:32:23 - INFO - criando conexões!
-27/07/2025 23:32:23 - WARNING - criando a tabela votos
-27/07/2025 23:32:23 - DEBUG - conectando ao base de dados
-27/07/2025 23:32:23 - INFO - criando conexões!
-27/07/2025 23:32:23 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:32:23 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:32:23 - INFO - mostrar todos os candidatos
-27/07/2025 23:32:23 - INFO - mostrar todos dados em votos
-27/07/2025 23:34:24 - DEBUG - iniciando o sistema!
-27/07/2025 23:34:24 - DEBUG - criando as conexões
-27/07/2025 23:34:24 - INFO - criando conexões!
-27/07/2025 23:34:24 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:34:24 - INFO - salvar a sessão
-27/07/2025 23:34:24 - INFO - # Alistamento de Candidatos
-27/07/2025 23:34:24 - INFO - alistamentos de votos
-27/07/2025 23:34:24 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:34:24 - INFO - criando conexões!
-27/07/2025 23:34:24 - WARNING - criando a tabela votos
-27/07/2025 23:34:24 - DEBUG - conectando ao base de dados
-27/07/2025 23:34:24 - INFO - criando conexões!
-27/07/2025 23:34:24 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:34:24 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:34:24 - INFO - mostrar todos os candidatos
-27/07/2025 23:34:24 - INFO - mostrar todos dados em votos
-27/07/2025 23:36:20 - DEBUG - iniciando o sistema!
-27/07/2025 23:36:20 - DEBUG - criando as conexões
-27/07/2025 23:36:20 - INFO - criando conexões!
-27/07/2025 23:36:20 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:36:20 - INFO - salvar a sessão
-27/07/2025 23:36:20 - INFO - # Alistamento de Candidatos
-27/07/2025 23:36:20 - INFO - alistamentos de votos
-27/07/2025 23:36:20 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:36:20 - INFO - criando conexões!
-27/07/2025 23:36:20 - WARNING - criando a tabela votos
-27/07/2025 23:36:20 - DEBUG - conectando ao base de dados
-27/07/2025 23:36:20 - INFO - criando conexões!
-27/07/2025 23:36:20 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:36:20 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:36:20 - INFO - mostrar todos os candidatos
-27/07/2025 23:36:20 - INFO - mostrar todos dados em votos
-27/07/2025 23:36:27 - ERROR - ❌ Deu erro ao votar, tem que estar na base de dados, ou eleitor já votou no eleitor!
-27/07/2025 23:36:27 - WARNING - fechando todas as conexões com a base de dados
-27/07/2025 23:36:37 - DEBUG - iniciando o sistema!
-27/07/2025 23:36:37 - DEBUG - criando as conexões
-27/07/2025 23:36:37 - INFO - criando conexões!
-27/07/2025 23:36:37 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:36:37 - INFO - salvar a sessão
-27/07/2025 23:36:37 - INFO - # Alistamento de Candidatos
-27/07/2025 23:36:37 - INFO - alistamentos de votos
-27/07/2025 23:36:37 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:36:37 - INFO - criando conexões!
-27/07/2025 23:36:37 - WARNING - criando a tabela votos
-27/07/2025 23:36:37 - DEBUG - conectando ao base de dados
-27/07/2025 23:36:37 - INFO - criando conexões!
-27/07/2025 23:36:37 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:36:37 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:36:37 - INFO - mostrar todos os candidatos
-27/07/2025 23:36:37 - INFO - mostrar todos dados em votos
-27/07/2025 23:37:09 - DEBUG - iniciando o sistema!
-27/07/2025 23:37:09 - DEBUG - criando as conexões
-27/07/2025 23:37:09 - INFO - criando conexões!
-27/07/2025 23:37:09 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:37:09 - INFO - salvar a sessão
-27/07/2025 23:37:09 - INFO - # Alistamento de Candidatos
-27/07/2025 23:37:09 - INFO - alistamentos de votos
-27/07/2025 23:37:09 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:37:09 - INFO - criando conexões!
-27/07/2025 23:37:09 - WARNING - criando a tabela votos
-27/07/2025 23:37:09 - DEBUG - conectando ao base de dados
-27/07/2025 23:37:09 - INFO - criando conexões!
-27/07/2025 23:37:09 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:37:09 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:37:09 - INFO - mostrar todos os candidatos
-27/07/2025 23:37:09 - INFO - mostrar todos dados em votos
-27/07/2025 23:43:03 - DEBUG - iniciando o sistema!
-27/07/2025 23:43:03 - DEBUG - criando as conexões
-27/07/2025 23:43:03 - INFO - criando conexões!
-27/07/2025 23:43:03 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:43:03 - INFO - salvar a sessão
-27/07/2025 23:43:03 - INFO - # Alistamento de Candidatos
-27/07/2025 23:43:03 - INFO - alistamentos de votos
-27/07/2025 23:43:03 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:43:03 - INFO - criando conexões!
-27/07/2025 23:43:03 - WARNING - criando a tabela votos
-27/07/2025 23:43:03 - DEBUG - conectando ao base de dados
-27/07/2025 23:43:03 - INFO - criando conexões!
-27/07/2025 23:43:03 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:43:03 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:43:03 - INFO - mostrar todos os candidatos
-27/07/2025 23:43:03 - INFO - mostrar todos dados em votos
-27/07/2025 23:46:31 - DEBUG - iniciando o sistema!
-27/07/2025 23:46:31 - DEBUG - criando as conexões
-27/07/2025 23:46:31 - INFO - criando conexões!
-27/07/2025 23:46:31 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:46:31 - INFO - salvar a sessão
-27/07/2025 23:46:31 - INFO - # Alistamento de Candidatos
-27/07/2025 23:46:31 - INFO - alistamentos de votos
-27/07/2025 23:46:31 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:46:31 - INFO - criando conexões!
-27/07/2025 23:46:31 - WARNING - criando a tabela votos
-27/07/2025 23:46:31 - DEBUG - conectando ao base de dados
-27/07/2025 23:46:31 - INFO - criando conexões!
-27/07/2025 23:46:31 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:46:31 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:46:31 - INFO - mostrar todos os candidatos
-27/07/2025 23:46:31 - INFO - mostrar todos dados em votos
-27/07/2025 23:46:42 - WARNING - fechando todas as conexões com a base de dados
-27/07/2025 23:48:29 - DEBUG - iniciando o sistema!
-27/07/2025 23:48:29 - DEBUG - criando as conexões
-27/07/2025 23:48:29 - INFO - criando conexões!
-27/07/2025 23:48:29 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:48:29 - INFO - salvar a sessão
-27/07/2025 23:48:29 - INFO - # Alistamento de Candidatos
-27/07/2025 23:48:29 - INFO - alistamentos de votos
-27/07/2025 23:48:29 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:48:29 - INFO - criando conexões!
-27/07/2025 23:48:29 - WARNING - criando a tabela votos
-27/07/2025 23:48:29 - DEBUG - conectando ao base de dados
-27/07/2025 23:48:29 - INFO - criando conexões!
-27/07/2025 23:48:29 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:48:29 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:48:29 - INFO - mostrar todos os candidatos
-27/07/2025 23:48:29 - INFO - mostrar todos dados em votos
-27/07/2025 23:48:39 - WARNING - fechando todas as conexões com a base de dados
-27/07/2025 23:49:02 - DEBUG - iniciando o sistema!
-27/07/2025 23:49:02 - DEBUG - criando as conexões
-27/07/2025 23:49:02 - INFO - criando conexões!
-27/07/2025 23:49:02 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:49:02 - INFO - salvar a sessão
-27/07/2025 23:49:02 - INFO - # Alistamento de Candidatos
-27/07/2025 23:49:02 - INFO - alistamentos de votos
-27/07/2025 23:49:02 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:49:02 - INFO - criando conexões!
-27/07/2025 23:49:02 - WARNING - criando a tabela votos
-27/07/2025 23:49:02 - DEBUG - conectando ao base de dados
-27/07/2025 23:49:02 - INFO - criando conexões!
-27/07/2025 23:49:02 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:49:02 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:49:02 - INFO - mostrar todos os candidatos
-27/07/2025 23:49:02 - INFO - mostrar todos dados em votos
-27/07/2025 23:50:00 - DEBUG - iniciando o sistema!
-27/07/2025 23:50:00 - DEBUG - criando as conexões
-27/07/2025 23:50:00 - INFO - criando conexões!
-27/07/2025 23:50:00 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:50:00 - INFO - salvar a sessão
-27/07/2025 23:50:00 - INFO - # Alistamento de Candidatos
-27/07/2025 23:50:00 - INFO - alistamentos de votos
-27/07/2025 23:50:00 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:50:00 - INFO - criando conexões!
-27/07/2025 23:50:00 - WARNING - criando a tabela votos
-27/07/2025 23:50:00 - DEBUG - conectando ao base de dados
-27/07/2025 23:50:00 - INFO - criando conexões!
-27/07/2025 23:50:00 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:50:00 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:50:00 - INFO - mostrar todos os candidatos
-27/07/2025 23:50:00 - INFO - mostrar todos dados em votos
-27/07/2025 23:50:29 - DEBUG - iniciando o sistema!
-27/07/2025 23:50:29 - DEBUG - criando as conexões
-27/07/2025 23:50:29 - INFO - criando conexões!
-27/07/2025 23:50:29 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:50:29 - INFO - salvar a sessão
-27/07/2025 23:50:29 - INFO - # Alistamento de Candidatos
-27/07/2025 23:50:29 - INFO - alistamentos de votos
-27/07/2025 23:50:29 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:50:29 - INFO - criando conexões!
-27/07/2025 23:50:29 - WARNING - criando a tabela votos
-27/07/2025 23:50:29 - DEBUG - conectando ao base de dados
-27/07/2025 23:50:29 - INFO - criando conexões!
-27/07/2025 23:50:29 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:50:29 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:50:29 - INFO - mostrar todos os candidatos
-27/07/2025 23:50:29 - INFO - mostrar todos dados em votos
-27/07/2025 23:51:16 - DEBUG - iniciando o sistema!
-27/07/2025 23:51:16 - DEBUG - criando as conexões
-27/07/2025 23:51:16 - INFO - criando conexões!
-27/07/2025 23:51:16 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:51:16 - INFO - salvar a sessão
-27/07/2025 23:51:16 - INFO - # Alistamento de Candidatos
-27/07/2025 23:51:16 - INFO - alistamentos de votos
-27/07/2025 23:51:16 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:51:16 - INFO - criando conexões!
-27/07/2025 23:51:16 - WARNING - criando a tabela votos
-27/07/2025 23:51:16 - DEBUG - conectando ao base de dados
-27/07/2025 23:51:16 - INFO - criando conexões!
-27/07/2025 23:51:16 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:51:16 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:51:16 - INFO - mostrar todos os candidatos
-27/07/2025 23:51:16 - INFO - mostrar todos dados em votos
-27/07/2025 23:51:25 - WARNING - fechando todas as conexões com a base de dados
-27/07/2025 23:58:05 - DEBUG - iniciando o sistema!
-27/07/2025 23:58:05 - DEBUG - criando as conexões
-27/07/2025 23:58:05 - INFO - criando conexões!
-27/07/2025 23:58:05 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:58:05 - INFO - salvar a sessão
-27/07/2025 23:58:05 - INFO - # Alistamento de Candidatos
-27/07/2025 23:58:05 - INFO - alistamentos de votos
-27/07/2025 23:58:05 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:58:05 - INFO - criando conexões!
-27/07/2025 23:58:05 - WARNING - criando a tabela votos
-27/07/2025 23:58:05 - DEBUG - conectando ao base de dados
-27/07/2025 23:58:05 - INFO - criando conexões!
-27/07/2025 23:58:05 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:58:05 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:58:05 - INFO - mostrar todos os candidatos
-27/07/2025 23:58:05 - INFO - mostrar todos dados em votos
-27/07/2025 23:59:14 - DEBUG - iniciando o sistema!
-27/07/2025 23:59:14 - DEBUG - criando as conexões
-27/07/2025 23:59:14 - INFO - criando conexões!
-27/07/2025 23:59:14 - WARNING - criando ou editando a tabela candidatos
-27/07/2025 23:59:14 - INFO - salvar a sessão
-27/07/2025 23:59:14 - INFO - # Alistamento de Candidatos
-27/07/2025 23:59:14 - INFO - alistamentos de votos
-27/07/2025 23:59:14 - DEBUG - criando conexão com a base de dados
-27/07/2025 23:59:14 - INFO - criando conexões!
-27/07/2025 23:59:14 - WARNING - criando a tabela votos
-27/07/2025 23:59:14 - DEBUG - conectando ao base de dados
-27/07/2025 23:59:14 - INFO - criando conexões!
-27/07/2025 23:59:14 - INFO - pegando todos os usuários de candidatos
-27/07/2025 23:59:14 - WARNING - fechando a conexão com à base de dados
-27/07/2025 23:59:14 - INFO - mostrar todos os candidatos
-27/07/2025 23:59:14 - INFO - mostrar todos dados em votos
-28/07/2025 00:00:05 - DEBUG - iniciando o sistema!
-28/07/2025 00:00:05 - DEBUG - criando as conexões
-28/07/2025 00:00:05 - INFO - criando conexões!
-28/07/2025 00:00:05 - WARNING - criando ou editando a tabela candidatos
-28/07/2025 00:00:05 - INFO - salvar a sessão
-28/07/2025 00:00:05 - INFO - # Alistamento de Candidatos
-28/07/2025 00:00:05 - INFO - alistamentos de votos
-28/07/2025 00:00:05 - DEBUG - criando conexão com a base de dados
-28/07/2025 00:00:05 - INFO - criando conexões!
-28/07/2025 00:00:05 - WARNING - criando a tabela votos
-28/07/2025 00:00:05 - DEBUG - conectando ao base de dados
-28/07/2025 00:00:05 - INFO - criando conexões!
-28/07/2025 00:00:05 - INFO - pegando todos os usuários de candidatos
-28/07/2025 00:00:05 - WARNING - fechando a conexão com à base de dados
-28/07/2025 00:00:05 - INFO - mostrar todos os candidatos
-28/07/2025 00:00:05 - INFO - mostrar todos dados em votos
-28/07/2025 00:00:56 - DEBUG - iniciando o sistema!
-28/07/2025 00:00:56 - DEBUG - criando as conexões
-28/07/2025 00:00:56 - INFO - criando conexões!
-28/07/2025 00:00:56 - WARNING - criando ou editando a tabela candidatos
-28/07/2025 00:00:56 - INFO - salvar a sessão
-28/07/2025 00:00:56 - INFO - # Alistamento de Candidatos
-28/07/2025 00:00:56 - INFO - alistamentos de votos
-28/07/2025 00:00:56 - DEBUG - criando conexão com a base de dados
-28/07/2025 00:00:56 - INFO - criando conexões!
-28/07/2025 00:00:56 - WARNING - criando a tabela votos
-28/07/2025 00:00:56 - DEBUG - conectando ao base de dados
-28/07/2025 00:00:56 - INFO - criando conexões!
-28/07/2025 00:00:56 - INFO - pegando todos os usuários de candidatos
-28/07/2025 00:00:56 - WARNING - fechando a conexão com à base de dados
-28/07/2025 00:00:56 - INFO - mostrar todos os candidatos
-28/07/2025 00:00:56 - INFO - mostrar todos dados em votos
-28/07/2025 00:09:10 - DEBUG - iniciando o sistema!
-28/07/2025 00:09:10 - DEBUG - criando as conexões
-28/07/2025 00:09:10 - INFO - criando conexões!
-28/07/2025 00:09:10 - WARNING - criando ou editando a tabela candidatos
-28/07/2025 00:09:10 - INFO - salvar a sessão
-28/07/2025 00:09:10 - INFO - # Alistamento de Candidatos
-28/07/2025 00:09:10 - INFO - alistamentos de votos
-28/07/2025 00:09:10 - DEBUG - criando conexão com a base de dados
-28/07/2025 00:09:10 - INFO - criando conexões!
-28/07/2025 00:09:10 - WARNING - criando a tabela votos
-28/07/2025 00:09:10 - DEBUG - conectando ao base de dados
-28/07/2025 00:09:10 - INFO - criando conexões!
-28/07/2025 00:09:10 - INFO - pegando todos os usuários de candidatos
-28/07/2025 00:09:10 - WARNING - fechando a conexão com à base de dados
-28/07/2025 00:09:10 - INFO - 🔎 Buscando todos os candidatos
-28/07/2025 00:09:10 - INFO - 🔎 Buscando todos os votos
-28/07/2025 00:09:24 - INFO - ✅ Voto registrado com sucesso: Paulo votou em Joshua.
-28/07/2025 00:09:24 - WARNING - ⚠️ Fechando a conexão com a base de dados.
-28/07/2025 00:09:24 - WARNING - fechando todas as conexões com a base de dados
-28/07/2025 00:09:47 - DEBUG - iniciando o sistema!
-28/07/2025 00:09:47 - DEBUG - criando as conexões
-28/07/2025 00:09:47 - INFO - criando conexões!
-28/07/2025 00:09:47 - WARNING - criando ou editando a tabela candidatos
-28/07/2025 00:09:47 - INFO - salvar a sessão
-28/07/2025 00:09:47 - INFO - # Alistamento de Candidatos
-28/07/2025 00:09:47 - INFO - alistamentos de votos
-28/07/2025 00:09:47 - DEBUG - criando conexão com a base de dados
-28/07/2025 00:09:47 - INFO - criando conexões!
-28/07/2025 00:09:47 - WARNING - criando a tabela votos
-28/07/2025 00:09:47 - DEBUG - conectando ao base de dados
-28/07/2025 00:09:47 - INFO - criando conexões!
-28/07/2025 00:09:47 - INFO - pegando todos os usuários de candidatos
-28/07/2025 00:09:47 - WARNING - fechando a conexão com à base de dados
-28/07/2025 00:09:47 - INFO - 🔎 Buscando todos os candidatos
-28/07/2025 00:09:47 - INFO - 🔎 Buscando todos os votos
-28/07/2025 00:10:02 - WARNING - ⚠️ Eleitor 'Paulo' já votou.
-28/07/2025 00:10:02 - WARNING - fechando todas as conexões com a base de dados
-01/08/2025 23:40:34 - DEBUG - iniciando o sistema!
-01/08/2025 23:41:26 - DEBUG - iniciando o sistema!
-01/08/2025 23:41:40 - DEBUG - iniciando o sistema!
-01/08/2025 23:41:51 - DEBUG - iniciando o sistema!
-02/08/2025 00:05:36 - DEBUG - iniciando o sistema!
-02/08/2025 00:06:13 - INFO - Criando conexões
-02/08/2025 00:06:13 - INFO - criando conexões!
-02/08/2025 00:07:13 - DEBUG - iniciando o sistema!
-02/08/2025 00:07:16 - INFO - Criando conexões
-02/08/2025 00:07:16 - INFO - criando conexões!
-02/08/2025 00:08:02 - DEBUG - iniciando o sistema!
-02/08/2025 00:08:05 - INFO - Criando conexões
-02/08/2025 00:08:05 - INFO - criando conexões!
-02/08/2025 00:09:31 - DEBUG - iniciando o sistema!
-02/08/2025 00:10:06 - DEBUG - iniciando o sistema!
-02/08/2025 00:10:09 - INFO - Criando conexões
-02/08/2025 00:10:09 - INFO - criando conexões!
-02/08/2025 00:10:09 - INFO - salvar as sessões
-02/08/2025 00:10:09 - WARNING - fechar as conexões
-02/08/2025 00:11:11 - DEBUG - iniciando o sistema!
-02/08/2025 00:11:14 - INFO - Criando conexões
-02/08/2025 00:11:14 - INFO - criando conexões!
-02/08/2025 00:11:14 - INFO - salvar as sessões
-02/08/2025 00:11:14 - INFO - criando conexões!
-02/08/2025 00:11:34 - WARNING - fechar as conexões
-02/08/2025 00:19:08 - DEBUG - iniciando o sistema!
-02/08/2025 00:19:08 - DEBUG - criando conexão com a base de dados
-02/08/2025 00:19:08 - INFO - criando conexões!
-02/08/2025 00:19:08 - WARNING - criando a tabela votos
-02/08/2025 00:20:36 - DEBUG - iniciando o sistema!
-02/08/2025 00:20:36 - DEBUG - criando conexão com a base de dados
-02/08/2025 00:20:36 - INFO - criando conexões!
-02/08/2025 00:20:36 - WARNING - criando a tabela votos
-02/08/2025 00:20:36 - DEBUG - conectando ao base de dados
-02/08/2025 00:20:36 - INFO - criando conexões!
-02/08/2025 00:20:36 - INFO - pegando todos os usuários de candidatos
-02/08/2025 00:20:36 - WARNING - fechando a conexão com à base de dados
-02/08/2025 00:20:36 - INFO - 🔎 Buscando todos os candidatos
-02/08/2025 00:20:36 - INFO - 🔎 Buscando todos os votos
-02/08/2025 00:20:36 - INFO - 🔎 Buscando todos os eleitores
-02/08/2025 00:21:42 - ERROR - ❌ eleitor 'Joao' não está na base de dados!
-02/08/2025 00:21:52 - DEBUG - iniciando o sistema!
-02/08/2025 00:21:52 - DEBUG - criando conexão com a base de dados
-02/08/2025 00:21:52 - INFO - criando conexões!
-02/08/2025 00:21:52 - WARNING - criando a tabela votos
-02/08/2025 00:21:52 - DEBUG - conectando ao base de dados
-02/08/2025 00:21:52 - INFO - criando conexões!
-02/08/2025 00:21:52 - INFO - pegando todos os usuários de candidatos
-02/08/2025 00:21:52 - WARNING - fechando a conexão com à base de dados
-02/08/2025 00:21:52 - INFO - 🔎 Buscando todos os candidatos
-02/08/2025 00:21:52 - INFO - 🔎 Buscando todos os votos
-02/08/2025 00:21:52 - INFO - 🔎 Buscando todos os eleitores
-02/08/2025 00:22:00 - INFO - ✅ Voto registrado com sucesso: Hugo votou em Joshua.
-02/08/2025 00:22:00 - WARNING - ⚠️ Fechando a conexão com a base de dados.
-02/08/2025 00:24:33 - DEBUG - iniciando o sistema!
-02/08/2025 00:24:33 - DEBUG - criando conexão com a base de dados
-02/08/2025 00:24:33 - INFO - criando conexões!
-02/08/2025 00:24:33 - WARNING - criando a tabela votos
-02/08/2025 00:24:33 - DEBUG - conectando ao base de dados
-02/08/2025 00:24:33 - INFO - criando conexões!
-02/08/2025 00:24:33 - INFO - pegando todos os usuários de candidatos
-02/08/2025 00:24:33 - WARNING - fechando a conexão com à base de dados
-02/08/2025 00:24:33 - INFO - 🔎 Buscando todos os candidatos
-02/08/2025 00:24:33 - INFO - 🔎 Buscando todos os votos
-02/08/2025 00:24:33 - INFO - 🔎 Buscando todos os eleitores
-02/08/2025 00:24:44 - WARNING - ⚠️ Eleitor 'Hugo' já votou.
-02/08/2025 00:27:18 - DEBUG - iniciando o sistema!
-02/08/2025 00:27:18 - DEBUG - criando conexão com a base de dados
-02/08/2025 00:27:18 - INFO - criando conexões!
-02/08/2025 00:27:18 - WARNING - criando a tabela votos
-02/08/2025 00:27:18 - DEBUG - conectando ao base de dados
-02/08/2025 00:27:18 - INFO - criando conexões!
-02/08/2025 00:27:18 - INFO - pegando todos os usuários de candidatos
-02/08/2025 00:27:18 - WARNING - fechando a conexão com à base de dados
-02/08/2025 00:27:18 - INFO - 🔎 Buscando todos os candidatos
-02/08/2025 00:27:18 - INFO - 🔎 Buscando todos os votos
-02/08/2025 00:27:18 - INFO - 🔎 Buscando todos os eleitores
-02/08/2025 00:27:51 - ERROR - ❌ Candidato '& c:/users/pc/appdata/local/programs/python/python313/python.exe "c:/users/pc/desktop/aula database/projecto_voto/index.py"' não está na base de dados!
-02/08/2025 00:27:58 - DEBUG - iniciando o sistema!
-02/08/2025 00:27:58 - INFO - Criando conexões
-02/08/2025 00:27:58 - INFO - criando conexões!
-02/08/2025 00:27:58 - INFO - salvar as sessões
-02/08/2025 00:27:58 - INFO - criando conexões!
-02/08/2025 00:28:15 - DEBUG - criando conexão com a base de dados
-02/08/2025 00:28:15 - INFO - criando conexões!
-02/08/2025 00:28:15 - WARNING - criando a tabela votos
-02/08/2025 00:28:15 - DEBUG - conectando ao base de dados
-02/08/2025 00:28:15 - INFO - criando conexões!
-02/08/2025 00:28:15 - INFO - pegando todos os usuários de candidatos
-02/08/2025 00:28:15 - WARNING - fechando a conexão com à base de dados
-02/08/2025 00:28:15 - INFO - 🔎 Buscando todos os candidatos
-02/08/2025 00:28:15 - INFO - 🔎 Buscando todos os votos
-02/08/2025 00:28:15 - INFO - 🔎 Buscando todos os eleitores
-02/08/2025 00:28:32 - INFO - ✅ Voto registrado com sucesso: Kailany votou em Joshua.
-02/08/2025 00:28:32 - WARNING - ⚠️ Fechando a conexão com a base de dados.
-02/08/2025 00:28:32 - WARNING - fechar as conexões
+02/08/2025 01:31:47 - DEBUG - iniciando o sistema!
+02/08/2025 01:31:47 - INFO - Criando conexões
+02/08/2025 01:31:48 - INFO - criando conexões!
+02/08/2025 01:31:50 - INFO - salvar as sessões
+02/08/2025 01:31:50 - INFO - criando conexões!
+02/08/2025 01:34:38 - DEBUG - iniciando o sistema!
+02/08/2025 01:34:38 - INFO - Criando conexões
+02/08/2025 01:34:38 - INFO - criando conexões!
+02/08/2025 01:34:38 - INFO - salvar as sessões
+02/08/2025 01:34:38 - INFO - criando conexões!
+02/08/2025 01:35:14 - DEBUG - iniciando o sistema!
+02/08/2025 01:35:14 - INFO - Criando conexões
+02/08/2025 01:35:14 - INFO - criando conexões!
+02/08/2025 01:35:14 - INFO - salvar as sessões
+02/08/2025 01:35:14 - INFO - criando conexões!
+02/08/2025 01:35:28 - DEBUG - iniciando o sistema!
+02/08/2025 01:35:48 - DEBUG - iniciando o sistema!
+02/08/2025 01:36:01 - DEBUG - criando as conexões
+02/08/2025 01:36:01 - INFO - criando conexões!
+02/08/2025 01:36:01 - WARNING - criando ou editando a tabela candidatos
+02/08/2025 01:36:02 - INFO - salvar a sessão
+02/08/2025 01:36:02 - INFO - # Alistamento de Candidatos
+02/08/2025 01:36:02 - INFO - alistamentos de votos
+02/08/2025 01:36:02 - WARNING - fechando todas as conexões com a base de dados
+02/08/2025 01:37:26 - DEBUG - iniciando o sistema!
+02/08/2025 01:37:29 - DEBUG - criando as conexões
+02/08/2025 01:37:29 - INFO - criando conexões!
+02/08/2025 01:37:29 - WARNING - criando ou editando a tabela candidatos
+02/08/2025 01:37:29 - INFO - salvar a sessão
+02/08/2025 01:37:29 - INFO - # Alistamento de Candidatos
+02/08/2025 01:37:29 - DEBUG - conectando ao base de dados
+02/08/2025 01:37:29 - INFO - criando conexões!
+02/08/2025 01:37:55 - INFO - ✅ Candidatos cadastrado com sucesso!
+02/08/2025 01:37:55 - WARNING - fechando as conexoes
+02/08/2025 01:37:55 - INFO - alistamentos de votos
+02/08/2025 01:37:55 - DEBUG - criando conexão com a base de dados
+02/08/2025 01:37:55 - INFO - criando conexões!
+02/08/2025 01:37:55 - WARNING - criando a tabela votos
+02/08/2025 01:37:55 - DEBUG - conectando ao base de dados
+02/08/2025 01:37:55 - INFO - criando conexões!
+02/08/2025 01:37:55 - INFO - pegando todos os usuários de candidatos
+02/08/2025 01:37:55 - WARNING - fechando a conexão com à base de dados
+02/08/2025 01:37:55 - INFO - 🔎 Buscando todos os candidatos
+02/08/2025 01:37:55 - INFO - 🔎 Buscando todos os votos
+02/08/2025 01:37:55 - INFO - 🔎 Buscando todos os eleitores
+02/08/2025 01:38:10 - ERROR - ❌ Candidato 'Joshua' não está na base de dados!
+02/08/2025 01:38:10 - WARNING - fechando todas as conexões com a base de dados
+02/08/2025 01:50:34 - DEBUG - iniciando o sistema!
+02/08/2025 01:50:41 - DEBUG - criando as conexões
+02/08/2025 01:50:41 - INFO - criando conexões!
+02/08/2025 01:50:41 - WARNING - criando ou editando a tabela candidatos
+02/08/2025 01:50:41 - INFO - salvar a sessão
+02/08/2025 01:50:41 - INFO - # Alistamento de Candidatos
+02/08/2025 01:50:41 - DEBUG - conectando ao base de dados
+02/08/2025 01:50:41 - INFO - criando conexões!
+02/08/2025 01:51:05 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+02/08/2025 01:51:05 - WARNING - fechando todas as conexões com a base de dados
+02/08/2025 01:51:23 - DEBUG - iniciando o sistema!
+02/08/2025 01:51:26 - DEBUG - criando as conexões
+02/08/2025 01:51:26 - INFO - criando conexões!
+02/08/2025 01:51:26 - WARNING - criando ou editando a tabela candidatos
+02/08/2025 01:51:26 - INFO - salvar a sessão
+02/08/2025 01:51:26 - INFO - # Alistamento de Candidatos
+02/08/2025 01:51:26 - DEBUG - conectando ao base de dados
+02/08/2025 01:51:26 - INFO - criando conexões!
+02/08/2025 01:51:39 - INFO - ✅ Candidatos cadastrado com sucesso!
+02/08/2025 01:51:39 - WARNING - fechando as conexoes
+02/08/2025 01:51:39 - WARNING - fechando todas as conexões com a base de dados
+02/08/2025 01:57:26 - DEBUG - iniciando o sistema!
+02/08/2025 01:57:28 - INFO - Criando conexões
+02/08/2025 01:57:28 - INFO - criando conexões!
+02/08/2025 01:57:28 - INFO - salvar as sessões
+02/08/2025 01:57:28 - INFO - criando conexões!
+02/08/2025 01:57:45 - INFO - ✅ eleitor cadastrado com sucesso!
+02/08/2025 01:57:45 - WARNING - fechado as conex
+02/08/2025 01:57:45 - DEBUG - criando conexão com a base de dados
+02/08/2025 01:57:45 - INFO - criando conexões!
+02/08/2025 01:57:45 - WARNING - criando a tabela votos
+02/08/2025 01:57:45 - DEBUG - conectando ao base de dados
+02/08/2025 01:57:45 - INFO - criando conexões!
+02/08/2025 01:57:45 - INFO - pegando todos os usuários de candidatos
+02/08/2025 01:57:45 - WARNING - fechando a conexão com à base de dados
+02/08/2025 01:57:45 - INFO - 🔎 Buscando todos os candidatos
+02/08/2025 01:57:45 - INFO - 🔎 Buscando todos os votos
+02/08/2025 01:57:45 - INFO - 🔎 Buscando todos os eleitores
+02/08/2025 01:58:13 - INFO - ✅ Voto registrado com sucesso: Hugo votou em Nadia.
+02/08/2025 01:58:13 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+02/08/2025 01:58:13 - WARNING - fechar as conexões
+02/08/2025 01:58:44 - DEBUG - iniciando o sistema!
+02/08/2025 01:58:47 - INFO - Criando conexões
+02/08/2025 01:58:47 - INFO - criando conexões!
+02/08/2025 01:58:47 - INFO - salvar as sessões
+02/08/2025 01:58:47 - INFO - criando conexões!
+02/08/2025 01:58:54 - INFO - ✅ eleitor cadastrado com sucesso!
+02/08/2025 01:58:54 - WARNING - fechado as conex
+02/08/2025 01:58:54 - DEBUG - criando conexão com a base de dados
+02/08/2025 01:58:54 - INFO - criando conexões!
+02/08/2025 01:58:54 - WARNING - criando a tabela votos
+02/08/2025 01:58:54 - DEBUG - conectando ao base de dados
+02/08/2025 01:58:54 - INFO - criando conexões!
+02/08/2025 01:58:54 - INFO - pegando todos os usuários de candidatos
+02/08/2025 01:58:54 - WARNING - fechando a conexão com à base de dados
+02/08/2025 01:58:54 - INFO - 🔎 Buscando todos os candidatos
+02/08/2025 01:58:54 - INFO - 🔎 Buscando todos os votos
+02/08/2025 01:58:54 - INFO - 🔎 Buscando todos os eleitores
+02/08/2025 02:02:12 - ERROR - ❌ Candidato '& c:/users/pc/appdata/local/programs/python/python313/python.exe c:/users/pc/desktop/projecto_voto/index.py' não está na base de dados!
+02/08/2025 02:02:12 - WARNING - fechar as conexões
+02/08/2025 02:02:15 - DEBUG - iniciando o sistema!
+02/08/2025 02:02:20 - INFO - Criando conexões
+02/08/2025 02:02:20 - INFO - criando conexões!
+02/08/2025 02:02:20 - INFO - salvar as sessões
+02/08/2025 02:02:20 - INFO - criando conexões!
+02/08/2025 02:02:26 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+02/08/2025 02:02:26 - DEBUG - criando conexão com a base de dados
+02/08/2025 02:02:26 - INFO - criando conexões!
+02/08/2025 02:02:26 - WARNING - criando a tabela votos
+02/08/2025 02:02:26 - DEBUG - conectando ao base de dados
+02/08/2025 02:02:26 - INFO - criando conexões!
+02/08/2025 02:02:26 - INFO - pegando todos os usuários de candidatos
+02/08/2025 02:02:26 - WARNING - fechando a conexão com à base de dados
+02/08/2025 02:02:26 - INFO - 🔎 Buscando todos os candidatos
+02/08/2025 02:02:26 - INFO - 🔎 Buscando todos os votos
+02/08/2025 02:02:26 - INFO - 🔎 Buscando todos os eleitores
+02/08/2025 02:02:59 - ERROR - ❌ Candidato 'Joshua' não está na base de dados!
+02/08/2025 02:02:59 - WARNING - fechar as conexões
+02/08/2025 02:06:35 - DEBUG - iniciando o sistema!
+02/08/2025 02:07:03 - DEBUG - criando as conexões
+02/08/2025 02:07:03 - INFO - criando conexões!
+02/08/2025 02:07:03 - WARNING - criando ou editando a tabela candidatos
+02/08/2025 02:07:03 - INFO - salvar a sessão
+02/08/2025 02:07:03 - INFO - # Alistamento de Candidatos
+02/08/2025 02:07:03 - DEBUG - conectando ao base de dados
+02/08/2025 02:07:03 - INFO - criando conexões!
+02/08/2025 02:07:50 - INFO - ✅ Candidatos cadastrado com sucesso!
+02/08/2025 02:07:50 - WARNING - fechando as conexoes
+02/08/2025 02:07:50 - WARNING - fechando todas as conexões com a base de dados
+02/08/2025 02:07:59 - DEBUG - iniciando o sistema!
+02/08/2025 02:08:02 - DEBUG - criando as conexões
+02/08/2025 02:08:02 - INFO - criando conexões!
+02/08/2025 02:08:02 - WARNING - criando ou editando a tabela candidatos
+02/08/2025 02:08:02 - INFO - salvar a sessão
+02/08/2025 02:08:02 - INFO - # Alistamento de Candidatos
+02/08/2025 02:08:02 - DEBUG - conectando ao base de dados
+02/08/2025 02:08:02 - INFO - criando conexões!
+02/08/2025 02:08:15 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+02/08/2025 02:08:15 - WARNING - fechando todas as conexões com a base de dados
+02/08/2025 02:09:34 - DEBUG - iniciando o sistema!
+02/08/2025 02:09:52 - DEBUG - iniciando o sistema!
+02/08/2025 02:09:55 - DEBUG - criando as conexões
+02/08/2025 02:09:55 - INFO - criando conexões!
+02/08/2025 02:09:55 - WARNING - criando ou editando a tabela candidatos
+02/08/2025 02:09:55 - INFO - salvar a sessão
+02/08/2025 02:09:55 - INFO - # Alistamento de Candidatos
+02/08/2025 02:09:55 - DEBUG - conectando ao base de dados
+02/08/2025 02:09:55 - INFO - criando conexões!
+02/08/2025 02:10:07 - INFO - ✅ Candidatos cadastrado com sucesso!
+02/08/2025 02:10:07 - WARNING - fechando as conexoes
+02/08/2025 02:10:07 - WARNING - fechando todas as conexões com a base de dados
+02/08/2025 02:13:31 - DEBUG - iniciando o sistema!
+02/08/2025 02:13:41 - DEBUG - criando as conexões
+02/08/2025 02:13:41 - INFO - criando conexões!
+02/08/2025 02:13:41 - WARNING - criando ou editando a tabela candidatos
+02/08/2025 02:13:41 - INFO - salvar a sessão
+02/08/2025 02:13:41 - INFO - # Alistamento de Candidatos
+02/08/2025 02:13:41 - DEBUG - conectando ao base de dados
+02/08/2025 02:13:41 - INFO - criando conexões!
+02/08/2025 02:13:56 - INFO - ✅ Candidatos cadastrado com sucesso!
+02/08/2025 02:13:56 - WARNING - fechando as conexoes
+02/08/2025 02:13:56 - WARNING - fechando todas as conexões com a base de dados
+02/08/2025 02:14:58 - DEBUG - iniciando o sistema!
+02/08/2025 02:15:03 - DEBUG - criando as conexões
+02/08/2025 02:15:03 - INFO - criando conexões!
+02/08/2025 02:15:03 - WARNING - criando ou editando a tabela candidatos
+02/08/2025 02:15:03 - INFO - salvar a sessão
+02/08/2025 02:15:03 - INFO - # Alistamento de Candidatos
+02/08/2025 02:15:03 - DEBUG - conectando ao base de dados
+02/08/2025 02:15:03 - INFO - criando conexões!
+02/08/2025 02:15:19 - INFO - ✅ Candidatos cadastrado com sucesso!
+02/08/2025 02:15:19 - WARNING - fechando as conexoes
+02/08/2025 02:15:19 - WARNING - fechando todas as conexões com a base de dados
+02/08/2025 02:17:26 - DEBUG - iniciando o sistema!

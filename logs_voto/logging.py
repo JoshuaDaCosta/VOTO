@@ -17,7 +17,7 @@ def setup_logger():
     logger.addHandler(console_handler)
 
     # Handler para arquivo
-    file_handler = logging.FileHandler("projecto_voto/logs_voto/voto.log", encoding='utf-8')
+    file_handler = logging.FileHandler("logs_voto/voto.log", encoding='utf-8')
     file_handler.setFormatter(formatter)
     logger.addHandler(file_handler)
 
