@@ -50,10 +50,20 @@ class Voto():
         
 
         
+<<<<<<< HEAD
     def conexao(self):
         con = sqlite3.connect("voto.db")
         logger.info("criando conexões!")
         return con
+=======
+#     def conexao(self):
+          
+#          BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+#         db_path = os.path.join(BASE_DIR, "eleicoes.db")
+#         con = sqlite3.connect(db_path)
+#         logger.info("criando conexões!")
+#         return con
+>>>>>>> 00bb96f7555771a86106b7134f5c91dfac43800d
 
     # candidato
     def candidato(self):
