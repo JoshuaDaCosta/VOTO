@@ -38,7 +38,10 @@
 
         
 #     def conexao(self):
-#         con = sqlite3.connect("eleicoes.db")
+          
+#          BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+#         db_path = os.path.join(BASE_DIR, "eleicoes.db")
+#         con = sqlite3.connect(db_path)
 #         logger.info("criando conexões!")
 #         return con
 
