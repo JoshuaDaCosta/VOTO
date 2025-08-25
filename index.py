@@ -46,7 +46,7 @@ class Voto():
             elif escolha in escolha_v:
                 sleep(2)                
                 self.votar()
-                sleep(5)
+                sleep(10)
             if escolha in escolha_p:
                 sleep(3)
                 logger.info("🖐🏿✨ obrigado por participar. Vá com Deus !")
