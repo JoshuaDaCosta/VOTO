@@ -536,3 +536,186 @@
 25/08/2025 10:11:06 - INFO - ✅ Voto registrado com sucesso: MÁRIO GAMA votou em JOSHUA DA COSTA.
 25/08/2025 10:11:07 - WARNING - ⚠️ Fechando a conexão com a base de dados.
 25/08/2025 10:11:41 - INFO - 🖐🏿✨ obrigado por participar. Vá com Deus !
+12/09/2025 16:56:44 - DEBUG - iniciando o sistema!
+12/09/2025 18:41:58 - DEBUG - criando as conexões
+12/09/2025 18:42:01 - INFO - criando conexões!
+12/09/2025 18:42:04 - WARNING - criando ou editando a tabela candidatos
+12/09/2025 18:42:04 - INFO - salvar a sessão
+12/09/2025 18:42:05 - INFO - # Alistamento de Candidatos
+12/09/2025 18:42:06 - DEBUG - conectando ao base de dados
+12/09/2025 18:42:08 - INFO - criando conexões!
+12/09/2025 18:43:01 - INFO - Buscando nomes de candidatos
+12/09/2025 18:43:02 - INFO - ✅ Candidatos cadastrado com sucesso!
+12/09/2025 18:43:03 - WARNING - fechando as conexoes
+12/09/2025 18:43:04 - WARNING - fechando todas as conexões com a base de dados
+12/09/2025 18:43:20 - DEBUG - criando conexão com a base de dados
+12/09/2025 18:43:22 - INFO - criando conexões!
+12/09/2025 18:43:25 - WARNING - criando a tabela votos
+12/09/2025 18:43:30 - DEBUG - conectando ao base de dados
+12/09/2025 18:43:32 - INFO - criando conexões!
+12/09/2025 18:43:35 - INFO - pegando todos os usuários de candidatos
+12/09/2025 18:43:45 - WARNING - fechando a conexão com à base de dados
+12/09/2025 18:43:46 - INFO - 🔎 Buscando todos os candidatos
+12/09/2025 18:43:47 - INFO - 🔎 Buscando todos os votos
+12/09/2025 18:43:48 - INFO - 🔎 Buscando todos os eleitores
+12/09/2025 18:44:16 - ERROR - ❌ eleitor 'JOSHUA' não está na base de dados!
+15/09/2025 17:18:16 - DEBUG - iniciando o sistema!
+15/09/2025 17:20:54 - DEBUG - criando conexão com a base de dados
+15/09/2025 17:20:56 - INFO - criando conexões!
+15/09/2025 17:20:59 - WARNING - criando a tabela votos
+15/09/2025 17:21:03 - DEBUG - conectando ao base de dados
+15/09/2025 17:21:05 - INFO - criando conexões!
+15/09/2025 17:21:08 - INFO - pegando todos os usuários de candidatos
+15/09/2025 17:21:17 - WARNING - fechando a conexão com à base de dados
+15/09/2025 17:21:18 - INFO - 🔎 Buscando todos os candidatos
+15/09/2025 17:21:19 - INFO - 🔎 Buscando todos os votos
+15/09/2025 17:21:20 - INFO - 🔎 Buscando todos os eleitores
+15/09/2025 17:21:34 - ERROR - ❌ Candidato 'JOME' não está na base de dados!
+15/09/2025 17:29:53 - INFO - Criando conexões
+15/09/2025 17:29:55 - INFO - criando conexões!
+15/09/2025 17:29:58 - INFO - salvar as sessões
+15/09/2025 17:30:02 - INFO - criando conexões!
+15/09/2025 17:30:29 - INFO - ✅ eleitor cadastrado com sucesso!
+15/09/2025 17:30:33 - WARNING - fechado as conex
+15/09/2025 17:30:34 - WARNING - fechar as conexões
+15/09/2025 17:30:41 - DEBUG - criando conexão com a base de dados
+15/09/2025 17:30:43 - INFO - criando conexões!
+15/09/2025 17:30:46 - WARNING - criando a tabela votos
+15/09/2025 17:30:48 - DEBUG - conectando ao base de dados
+15/09/2025 17:30:50 - INFO - criando conexões!
+15/09/2025 17:30:53 - INFO - pegando todos os usuários de candidatos
+15/09/2025 17:31:02 - WARNING - fechando a conexão com à base de dados
+15/09/2025 17:31:03 - INFO - 🔎 Buscando todos os candidatos
+15/09/2025 17:31:04 - INFO - 🔎 Buscando todos os votos
+15/09/2025 17:31:05 - INFO - 🔎 Buscando todos os eleitores
+15/09/2025 17:31:15 - ERROR - ❌ Candidato 'PAULA' não está na base de dados!
+15/09/2025 17:31:51 - DEBUG - criando conexão com a base de dados
+15/09/2025 17:31:53 - INFO - criando conexões!
+15/09/2025 17:31:56 - WARNING - criando a tabela votos
+15/09/2025 17:31:58 - DEBUG - conectando ao base de dados
+15/09/2025 17:32:00 - INFO - criando conexões!
+15/09/2025 17:32:03 - INFO - pegando todos os usuários de candidatos
+15/09/2025 17:32:12 - WARNING - fechando a conexão com à base de dados
+15/09/2025 17:32:13 - INFO - 🔎 Buscando todos os candidatos
+15/09/2025 17:32:14 - INFO - 🔎 Buscando todos os votos
+15/09/2025 17:32:15 - INFO - 🔎 Buscando todos os eleitores
+15/09/2025 17:35:27 - ERROR - ❌ Candidato 'PAULA' não está na base de dados!
+16/09/2025 00:11:04 - DEBUG - iniciando o sistema!
+28/10/2025 17:43:37 - DEBUG - iniciando o sistema!
+28/10/2025 17:44:25 - INFO - Criando conexões
+28/10/2025 17:44:28 - INFO - criando conexões!
+28/10/2025 17:44:31 - INFO - salvar as sessões
+28/10/2025 17:44:35 - INFO - criando conexões!
+28/10/2025 17:45:25 - INFO - ✅ eleitor cadastrado com sucesso!
+28/10/2025 17:45:26 - WARNING - fechado as conex
+28/10/2025 17:45:27 - WARNING - fechar as conexões
+28/10/2025 17:45:38 - DEBUG - criando conexão com a base de dados
+28/10/2025 17:45:40 - INFO - criando conexões!
+28/10/2025 17:45:43 - WARNING - criando a tabela votos
+28/10/2025 17:45:45 - DEBUG - conectando ao base de dados
+28/10/2025 17:45:47 - INFO - criando conexões!
+28/10/2025 17:45:50 - INFO - pegando todos os usuários de candidatos
+28/10/2025 17:45:59 - WARNING - fechando a conexão com à base de dados
+28/10/2025 17:46:00 - INFO - 🔎 Buscando todos os candidatos
+28/10/2025 17:46:01 - INFO - 🔎 Buscando todos os votos
+28/10/2025 17:46:02 - INFO - 🔎 Buscando todos os eleitores
+28/10/2025 17:46:59 - ERROR - ❌ Candidato 'JOME' não está na base de dados!
+28/10/2025 17:47:16 - DEBUG - criando conexão com a base de dados
+28/10/2025 17:47:18 - INFO - criando conexões!
+28/10/2025 17:47:21 - WARNING - criando a tabela votos
+28/10/2025 17:47:23 - DEBUG - conectando ao base de dados
+28/10/2025 17:47:25 - INFO - criando conexões!
+28/10/2025 17:47:28 - INFO - pegando todos os usuários de candidatos
+28/10/2025 17:47:37 - WARNING - fechando a conexão com à base de dados
+28/10/2025 17:47:38 - INFO - 🔎 Buscando todos os candidatos
+28/10/2025 17:47:39 - INFO - 🔎 Buscando todos os votos
+28/10/2025 17:47:40 - INFO - 🔎 Buscando todos os eleitores
+28/10/2025 17:48:05 - ERROR - ❌ Candidato 'JOSHUATELF' não está na base de dados!
+28/10/2025 17:50:06 - DEBUG - criando conexão com a base de dados
+28/10/2025 17:50:08 - INFO - criando conexões!
+28/10/2025 17:50:11 - WARNING - criando a tabela votos
+28/10/2025 17:50:13 - DEBUG - conectando ao base de dados
+28/10/2025 17:50:15 - INFO - criando conexões!
+28/10/2025 17:50:18 - INFO - pegando todos os usuários de candidatos
+28/10/2025 17:50:27 - WARNING - fechando a conexão com à base de dados
+28/10/2025 17:50:28 - INFO - 🔎 Buscando todos os candidatos
+28/10/2025 17:50:29 - INFO - 🔎 Buscando todos os votos
+28/10/2025 17:50:30 - INFO - 🔎 Buscando todos os eleitores
+28/10/2025 17:50:54 - INFO - ✅ Voto registrado com sucesso: JOSHUATELF votou em JOME NGOLA.
+28/10/2025 17:50:55 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+28/10/2025 17:51:15 - INFO - 🖐🏿✨ obrigado por participar. Vá com Deus !
+05/11/2025 17:41:29 - DEBUG - iniciando o sistema!
+05/11/2025 17:42:15 - DEBUG - criando conexão com a base de dados
+05/11/2025 17:42:17 - INFO - criando conexões!
+05/11/2025 17:42:20 - WARNING - criando a tabela votos
+05/11/2025 17:42:23 - DEBUG - conectando ao base de dados
+05/11/2025 17:42:25 - INFO - criando conexões!
+05/11/2025 17:42:28 - INFO - pegando todos os usuários de candidatos
+05/11/2025 17:42:37 - WARNING - fechando a conexão com à base de dados
+05/11/2025 17:42:38 - INFO - 🔎 Buscando todos os candidatos
+05/11/2025 17:42:39 - INFO - 🔎 Buscando todos os votos
+05/11/2025 17:42:40 - INFO - 🔎 Buscando todos os eleitores
+05/11/2025 17:43:34 - ERROR - ❌ eleitor 'GUI' não está na base de dados!
+05/11/2025 17:44:07 - INFO - Criando conexões
+05/11/2025 17:44:09 - INFO - criando conexões!
+05/11/2025 17:44:12 - INFO - salvar as sessões
+05/11/2025 17:44:16 - INFO - criando conexões!
+05/11/2025 17:44:55 - INFO - ✅ eleitor cadastrado com sucesso!
+05/11/2025 17:44:56 - WARNING - fechado as conex
+05/11/2025 17:44:57 - WARNING - fechar as conexões
+05/11/2025 17:45:18 - DEBUG - iniciando o sistema!
+05/11/2025 17:46:41 - DEBUG - criando conexão com a base de dados
+05/11/2025 17:46:43 - INFO - criando conexões!
+05/11/2025 17:46:46 - WARNING - criando a tabela votos
+05/11/2025 17:46:48 - DEBUG - conectando ao base de dados
+05/11/2025 17:46:50 - INFO - criando conexões!
+05/11/2025 17:46:53 - INFO - pegando todos os usuários de candidatos
+05/11/2025 17:47:02 - WARNING - fechando a conexão com à base de dados
+05/11/2025 17:47:03 - INFO - 🔎 Buscando todos os candidatos
+05/11/2025 17:47:04 - INFO - 🔎 Buscando todos os votos
+05/11/2025 17:47:05 - INFO - 🔎 Buscando todos os eleitores
+05/11/2025 17:48:11 - INFO - ✅ Voto registrado com sucesso: GUILSON votou em JOSHUA DA COSTA.
+05/11/2025 17:48:12 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+05/11/2025 17:49:14 - INFO - 🖐🏿✨ obrigado por participar. Vá com Deus !
+06/11/2025 19:42:52 - DEBUG - iniciando o sistema!
+06/11/2025 19:44:33 - INFO - 🖐🏿✨ obrigado por participar. Vá com Deus !
+06/11/2025 19:44:47 - DEBUG - iniciando o sistema!
+06/11/2025 19:45:30 - DEBUG - criando as conexões
+06/11/2025 19:45:32 - INFO - criando conexões!
+06/11/2025 19:45:35 - WARNING - criando ou editando a tabela candidatos
+06/11/2025 19:45:35 - INFO - salvar a sessão
+06/11/2025 19:45:36 - INFO - # Alistamento de Candidatos
+06/11/2025 19:45:37 - DEBUG - conectando ao base de dados
+06/11/2025 19:45:39 - INFO - criando conexões!
+06/11/2025 19:46:20 - DEBUG - iniciando o sistema!
+06/11/2025 19:46:27 - DEBUG - criando as conexões
+06/11/2025 19:46:29 - INFO - criando conexões!
+06/11/2025 19:46:32 - WARNING - criando ou editando a tabela candidatos
+06/11/2025 19:46:32 - INFO - salvar a sessão
+06/11/2025 19:46:33 - INFO - # Alistamento de Candidatos
+06/11/2025 19:46:34 - DEBUG - conectando ao base de dados
+06/11/2025 19:46:36 - INFO - criando conexões!
+06/11/2025 19:47:11 - INFO - Buscando nomes de candidatos
+06/11/2025 19:47:12 - INFO - ✅ Candidatos cadastrado com sucesso!
+06/11/2025 19:47:13 - WARNING - fechando as conexoes
+06/11/2025 19:47:14 - WARNING - fechando todas as conexões com a base de dados
+06/11/2025 19:47:46 - INFO - Criando conexões
+06/11/2025 19:47:48 - INFO - criando conexões!
+06/11/2025 19:47:51 - INFO - salvar as sessões
+06/11/2025 19:47:55 - INFO - criando conexões!
+06/11/2025 19:48:15 - INFO - ✅ eleitor cadastrado com sucesso!
+06/11/2025 19:48:16 - WARNING - fechado as conex
+06/11/2025 19:48:17 - WARNING - fechar as conexões
+06/11/2025 19:48:34 - DEBUG - criando conexão com a base de dados
+06/11/2025 19:48:36 - INFO - criando conexões!
+06/11/2025 19:48:39 - WARNING - criando a tabela votos
+06/11/2025 19:48:42 - DEBUG - conectando ao base de dados
+06/11/2025 19:48:44 - INFO - criando conexões!
+06/11/2025 19:48:47 - INFO - pegando todos os usuários de candidatos
+06/11/2025 19:48:53 - WARNING - fechando a conexão com à base de dados
+06/11/2025 19:48:54 - INFO - 🔎 Buscando todos os candidatos
+06/11/2025 19:48:55 - INFO - 🔎 Buscando todos os votos
+06/11/2025 19:48:56 - INFO - 🔎 Buscando todos os eleitores
+06/11/2025 19:49:34 - INFO - ✅ Voto registrado com sucesso: JOSHUADACOSTA votou em MÁRIOVIDIGALMACOÇADAGAMA.
+06/11/2025 19:49:35 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+06/11/2025 19:52:07 - INFO - 🖐🏿✨ obrigado por participar. Vá com Deus !
