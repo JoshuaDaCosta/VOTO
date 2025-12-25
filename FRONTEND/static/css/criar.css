@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-direction: row;
+    
+    background-image: url("/static/img/image 10.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    height: auto;
+}
+
+form{
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    gap:1px;
+    padding:20px
+}

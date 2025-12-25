@@ -1,289 +1,177 @@
 import sqlite3
 from logs_voto.logging import setup_logger
 from time import sleep
+from crypto import encrypt_user, decrypt_user, hash_user
+from collections import Counter
 
 logger = setup_logger()
 
 
 class Voto():
-    def __init__(self):
-        print("*"*80)
-        logger.debug("iniciando o sistema!")
-        print("*"*80)
-        sleep(2)
-        
-        while True:
-            print("""
-                Seja bem vindo ao sistema de voto!
-              temos as seguintes opções:
-              -Ser um candidato escreva ['01','1', 'candidato']
-              -Ser um Eleitor escreva ['02','2', 'eleitor']
-              -Votar escreva ['03,'3','votar']
-              -para parar 🚫 digite ["stop"] ou ["fim"]
-              obs:
-                lembrando também que um candidato ou eleitor têm o direito de votar para cada candidato
-                cada candidato pode votar para si ou para um outro!
-              
-              
 
-            """)
-            print("\n")
-            escolha=input(str("Qual vai escolher?")).strip().lower()
-            print("*"*30)
-            escolha_c=['01','1', 'candidato']
-            escolha_e=['02','2', 'eleitor']
-            escolha_v=['03','3','votar']
-            escolha_p=['fim', 'stop']
-                    
-            if  escolha in escolha_c:
-                sleep(2)
-                print("candidato seja bem vindo!")
-                self.candidato()
-            elif escolha in escolha_e:
-                sleep(2)
-                print("eleitor seja bem vindo!")
-                self.eleitor()
-            elif escolha in escolha_v:
-                sleep(2)                
-                self.votar()
-                sleep(10)
-            if escolha in escolha_p:
-                sleep(3)
-                logger.info("🖐🏿✨ obrigado por participar. Vá com Deus !")
-                break
-          
     def conexao(self):
-        sleep(2)
         con = sqlite3.connect("voto.db")
-        logger.info("criando conexões!")
-        sleep(2)
         return con
 
-    # candidato
+    # ---------------- CANDIDATO ----------------
     def candidato(self):
-        logger.debug("criando as conexões")
         con = self.conexao()
-        sleep(1)
-        logger.warning("criando ou editando a tabela candidatos")
         con.execute("""
             CREATE TABLE IF NOT EXISTS CANDIDATOS (
                 ID INTEGER PRIMARY KEY AUTOINCREMENT,
-                NOME TEXT NOT NULL,
-                TELEFONE INTEGER,
+                NOME TEXT,
+                TELEFONE TEXT,
                 PARTIDO TEXT,
                 EMAIL TEXT
             );
         """)
-        logger.info("salvar a sessão")
         con.commit()
-        sleep(1)
-        logger.info("# Alistamento de Candidatos")
-        self.alistar()
-        sleep(1)
-        
         con.close()
-        logger.warning("fechando todas as conexões com a base de dados")
-        sleep(1)
 
-    def alistar(self):
-        sleep(1)
-        logger.debug("conectando ao base de dados")
+    def alistar(self, nome, telf, email, partido):
         con = self.conexao()
-        sleep(1)
-        nome=input("Nome COMPLETO:").strip().upper()
-        telf=int(input("telf:"))
-        partido=input("partido:").upper()
-        email=input("email:").lower()
-        sleep(1)
-        logger.info("Buscando nomes de candidatos")
-        cursor=con.cursor()
-        cursor.execute("select NOME from CANDIDATOS")
-        candidatos_nomes=[row[0] for row in cursor.fetchall()]
-
-        if nome not in candidatos_nomes:
-            try:
-                
-                con.execute("INSERT INTO CANDIDATOS (NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(nome, telf, partido, email))
-                con.commit()
-                sleep(1)
-                logger.info("✅ Candidatos cadastrado com sucesso!")
-
-            except Exception as e:
-                sleep(1)
-                logger.error("❌ Erro ao cadastrar:")
-                logger.exception(e)
-                # print("❌ Erro ao cadastrar:", e)
-            finally:
-                sleep(1)
-                con.close()
-                logger.warning("fechando as conexoes")
-        else:
-            sleep(1)
-            logger.error("🚫 Não vai ser inserido este nome porque já está na base de dados!")
-    def mostrar_candidatos(self):
-        sleep(1)
-        logger.debug("conectando ao base de dados")
-        con=self.conexao()
-        cursor=con.cursor()
-        sleep(1)
-        logger.info("pegando todos os usuários de candidatos")
-        cursor.execute("Select * from CANDIDATOS")
-        candidatos=cursor.fetchall()
-        sleep(1)
-        print("\n")
-        print("*"*30)
-        print("Aqui estão todos os candidatos disponíveis 👇:")
-        if not candidatos:
-            print("🚫 Nenhum candidato ainda cadastrado!")
-        else:
-            sleep(1)
-            print("\n")
-            print("\n 📝 lista de candidatos:")
-            print("ID| NOME | TELEFONE | PARTIDO | EMAIL")
-            for c in candidatos:
-                sleep(3)
-                print(f"{c[0]}| {c[1]} |{c[2]}|{c[3]}|{c[4]}")
-        sleep(1)
-        print("\n"*2)
-        print("*"*30)
-        logger.warning("fechando a conexão com à base de dados")
-        con.close()
-    def votar(self):
-        sleep(1)
-        logger.debug("criando conexão com a base de dados")
-        con = self.conexao()
-        sleep(1)
-        logger.warning("criando a tabela votos")
-        con.execute("""
-            CREATE TABLE IF NOT EXISTS VOTOS(
-                ID INTEGER PRIMARY KEY AUTOINCREMENT, 
-                ELEITOR TEXT,
-                ELEITO TEXT);
-        """)
-        sleep(1)
-        print("*"*30)
-        print("\n")
-        self.mostrar_candidatos()
-        sleep(1)
-        print("\n")
         cursor = con.cursor()
-       
-        logger.info("🔎 Buscando todos os candidatos")
+
+        nome_e = encrypt_user(nome)
+        telf_e = encrypt_user(str(telf))
+        email_e = encrypt_user(email)
+        partido_e = encrypt_user(partido)
+
         cursor.execute("SELECT NOME FROM CANDIDATOS")
-        candidatos = [row[0] for row in cursor.fetchall()]
-        sleep(1) 
-        logger.info("🔎 Buscando todos os votos")
-        cursor.execute("SELECT ELEITOR FROM VOTOS")
-        eleitores_ja_votaram = [row[0] for row in cursor.fetchall()]
-        sleep(1)
-        logger.info("🔎 Buscando todos os eleitores")
-        cursor.execute("SELECT NOME FROM ELEITORES")
-        eleitores=[row[0] for row in cursor.fetchall()]
-        sleep(1)
-        eleito = input("Para quem vai votar?\n:").upper().strip()
-        eleitor = input("Quem vai votar?\n:").upper().strip()
-        sleep(1)
-        if eleito not in candidatos:
-            sleep(1)
-            logger.error(f"❌ Candidato '{eleito}' não está na base de dados!")
-            con.close()
-            return
+        existentes = [row[0] for row in cursor.fetchall()]
 
-        if eleitor in eleitores_ja_votaram:
-            sleep(1)
-            logger.warning(f"⚠️\n Eleitor '{eleitor}' já votou.")
-            con.close()
-            return
-        if eleitor not in eleitores:
-            sleep(1)
-            logger.error(f"❌ eleitor '{eleitor}' não está na base de dados!")
-            con.close()
-            return
-
-
-        try:
-            cursor.execute("INSERT INTO VOTOS (ELEITOR, ELEITO) VALUES (?, ?)", (eleitor, eleito))
+        if nome_e not in existentes:
+            cursor.execute("""
+                INSERT INTO CANDIDATOS (NOME, TELEFONE, PARTIDO, EMAIL)
+                VALUES (?, ?, ?, ?)
+            """, (nome_e, telf_e, partido_e, email_e))
             con.commit()
-            sleep(1)
-            logger.info(f"✅ Voto registrado com sucesso: {eleitor} votou em {eleito}.")
-            print("✅ Voto registrado com sucesso!")
-        except Exception as e:
-            sleep(1)
-            logger.error("❌ Erro ao tentar registrar o voto.")
-            logger.exception(e)
-        finally:
-            sleep(1)
-            logger.warning("⚠️ Fechando a conexão com a base de dados.")
-            con.close()
 
-    ## eleitor
+        con.close()
+
+    def mostrar_candidatos(self):
+        con = self.conexao()
+        cursor = con.cursor()
+        cursor.execute("SELECT ID, NOME FROM CANDIDATOS")
+        dados = cursor.fetchall()
+        con.close()
+
+        candidatos = []
+        for i, nome in dados:
+            candidatos.append((i, decrypt_user(nome)))
+        return candidatos
+
+    # ---------------- ELEITOR ----------------
     def eleitor(self):
-        sleep(1)
-        logger.info("Criando conexões")
-        con=self.conexao()
-        sleep(1)
+        con = self.conexao()
         con.execute("""
             CREATE TABLE IF NOT EXISTS ELEITORES (
                 ID INTEGER PRIMARY KEY AUTOINCREMENT,
-                NOME TEXT NOT NULL,
-                TELEFONE INTEGER,
-                BI TEXT
+                NOME TEXT,
+                TELEFONE TEXT,
+                BI TEXT,
+                LOCALIDADE TEXT
             );
         """)
-        logger.info("salvar as sessões")
         con.commit()
-        sleep(1)
-        self.alistar_e()
-        sleep(1)
-        logger.warning("fechar as conexões")     
         con.close()
-        sleep(1)
-    def alistar_e(self):
-        sleep(1)
-        con=self.conexao()
-        sleep(2)
-        nome=input("nome_eleitor:").upper().strip()
-        telf=input("telf:").strip()
-        bi=input("BI:").strip().upper()
-        sleep(1)
-        cursor=con.cursor()
-        cursor.execute("select NOME FROM ELEITORES")
-        eleitores=[row[0] for row in cursor.fetchall()]
-        sleep(1)
-        if nome not in eleitores: 
-            try:
-                con.execute("INSERT INTO ELEITORES (NOME, TELEFONE, BI) VALUES(?,?,?)",(nome, telf, bi))
-                sleep(1)
-                logger.info("✅ eleitor cadastrado com sucesso!")
-                con.commit()
-            except Exception as e:
-                sleep(1)
-                logger.error("❌ Erro ao cadastrar:")
-                logger.exception(e)
-            finally:
-                sleep(1)
-                logger.warning("fechado as conex")
-                con.close()
-        else:
-            sleep(1)
-            logger.error("🚫 Não vai ser inserido este nome porque já está na base de dados!")
-
-
-
-
+    def listar_hash_eleitores(self):
+        """
+        Retorna uma lista de todos os eleitores já votaram, 
+        em formato encryptado (hash), para mostrar no dashboard.
+        """
         
+        con = self.conexao()
+        cursor = con.cursor()
+        cursor.execute("SELECT ELEITOR FROM VOTOS")
+        eleitores = [row[0] for row in cursor.fetchall()]
+        con.close()
+        return eleitores
 
+    def alistar_e(self, nome, telf, bi, gps):
+        con = self.conexao()
+        cursor = con.cursor()
 
+        nome_h = hash_user(nome)
+        telf_e = encrypt_user(str(telf))
+        bi_h = hash_user(bi)
+        gps_e = encrypt_user(gps)
 
+        cursor.execute("SELECT NOME FROM ELEITORES")
+        existentes = [row[0] for row in cursor.fetchall()]
 
-j=Voto()
+        if nome_h not in existentes:
+            cursor.execute("""
+                INSERT INTO ELEITORES (NOME, TELEFONE, BI, LOCALIDADE)
+                VALUES (?, ?, ?, ?)
+            """, (nome_h, telf_e, bi_h, gps_e))
+            con.commit()
+
+        con.close()
+    # 
+    def criar_tabela_votos(self):
+        con = self.conexao()
+        con.execute("""
+            CREATE TABLE IF NOT EXISTS VOTOS (
+                ID INTEGER PRIMARY KEY AUTOINCREMENT,
+                ELEITOR TEXT,
+                ELEITO TEXT
+            );
+        """)
+        con.commit()
+        con.close()
+
+    # ---------------- VOTO ----------------
+    def votar(self, eleitor_c, candidato):
+        con = self.conexao()
+        cursor = con.cursor()
+
+        self.criar_tabela_votos()
+
+        eleitor_h = hash_user(eleitor_c)
+        candidato_e = encrypt_user(candidato)
+
+        cursor.execute("SELECT ELEITOR FROM VOTOS")
+        ja_votaram = [row[0] for row in cursor.fetchall()]
+
+        if eleitor_h in ja_votaram:
+            con.close()
+            return
+
+        cursor.execute("""
+            INSERT INTO VOTOS (ELEITOR, ELEITO)
+            VALUES (?, ?)
+        """, (eleitor_h, candidato_e))
+
+        con.commit()
+        con.close()
+
+    # ---------------- APURAÇÃO ----------------
+
+    def apurar_votos(self):
+        # conecta ao banco
+        con = sqlite3.connect("voto.db")
+        cursor = con.cursor()
+
+        # pega todos os votos (criptografados)
+        cursor.execute("SELECT ELEITO FROM VOTOS")
+        votos_encrypted = cursor.fetchall()
+        
+        # decrypta os votos
+        votos_decrypt = []
+        for v in votos_encrypted:
+            try:
+                votos_decrypt.append(decrypt_user(v[0]))
+            except Exception as e:
+                print(f"Erro ao decryptar voto: {v[0]} - {e}")
+
+        # conta os votos por candidato
+        resultado = Counter(votos_decrypt)
+
+        # ordena do maior para o menor
+        resultados = dict(sorted(resultado.items(), key=lambda item: item[1], reverse=True))
+
+        con.close()
+        return resultados
 
     
-
-
-
-
-
-        
-
-

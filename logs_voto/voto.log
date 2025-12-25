@@ -719,3 +719,1396 @@
 06/11/2025 19:49:34 - INFO - ✅ Voto registrado com sucesso: JOSHUADACOSTA votou em MÁRIOVIDIGALMACOÇADAGAMA.
 06/11/2025 19:49:35 - WARNING - ⚠️ Fechando a conexão com a base de dados.
 06/11/2025 19:52:07 - INFO - 🖐🏿✨ obrigado por participar. Vá com Deus !
+06/12/2025 18:02:49 - DEBUG - iniciando o sistema!
+06/12/2025 18:04:26 - DEBUG - criando as conexões
+06/12/2025 18:04:28 - INFO - criando conexões!
+06/12/2025 18:04:31 - WARNING - criando ou editando a tabela candidatos
+06/12/2025 18:04:31 - INFO - salvar a sessão
+06/12/2025 18:04:32 - INFO - # Alistamento de Candidatos
+06/12/2025 18:04:33 - DEBUG - conectando ao base de dados
+06/12/2025 18:04:35 - INFO - criando conexões!
+06/12/2025 18:05:40 - INFO - Buscando nomes de candidatos
+06/12/2025 18:05:41 - INFO - ✅ Candidatos cadastrado com sucesso!
+06/12/2025 18:05:42 - WARNING - fechando as conexoes
+06/12/2025 18:05:43 - WARNING - fechando todas as conexões com a base de dados
+06/12/2025 18:07:49 - INFO - Criando conexões
+06/12/2025 18:07:52 - INFO - criando conexões!
+06/12/2025 18:07:55 - INFO - salvar as sessões
+06/12/2025 18:08:00 - INFO - criando conexões!
+06/12/2025 18:08:37 - INFO - ✅ eleitor cadastrado com sucesso!
+06/12/2025 18:08:38 - WARNING - fechado as conex
+06/12/2025 18:08:39 - WARNING - fechar as conexões
+06/12/2025 18:08:50 - DEBUG - criando conexão com a base de dados
+06/12/2025 18:08:52 - INFO - criando conexões!
+06/12/2025 18:08:55 - WARNING - criando a tabela votos
+06/12/2025 18:08:57 - DEBUG - conectando ao base de dados
+06/12/2025 18:08:59 - INFO - criando conexões!
+06/12/2025 18:09:02 - INFO - pegando todos os usuários de candidatos
+06/12/2025 18:09:08 - WARNING - fechando a conexão com à base de dados
+06/12/2025 18:09:09 - INFO - 🔎 Buscando todos os candidatos
+06/12/2025 18:09:10 - INFO - 🔎 Buscando todos os votos
+06/12/2025 18:09:11 - INFO - 🔎 Buscando todos os eleitores
+06/12/2025 18:10:13 - INFO - ✅ Voto registrado com sucesso: JOSHUA votou em NTALA.
+06/12/2025 18:10:14 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+07/12/2025 23:52:11 - DEBUG - iniciando o sistema!
+07/12/2025 23:52:28 - DEBUG - criando as conexões
+07/12/2025 23:52:30 - INFO - criando conexões!
+07/12/2025 23:52:33 - WARNING - criando ou editando a tabela candidatos
+07/12/2025 23:52:33 - INFO - salvar a sessão
+07/12/2025 23:52:34 - INFO - # Alistamento de Candidatos
+07/12/2025 23:52:35 - DEBUG - conectando ao base de dados
+07/12/2025 23:52:37 - INFO - criando conexões!
+07/12/2025 23:53:22 - INFO - Buscando nomes de candidatos
+07/12/2025 23:53:24 - INFO - ✅ Candidatos cadastrado com sucesso!
+07/12/2025 23:53:25 - WARNING - fechando as conexoes
+07/12/2025 23:53:26 - WARNING - fechando todas as conexões com a base de dados
+07/12/2025 23:53:37 - DEBUG - criando conexão com a base de dados
+07/12/2025 23:53:39 - INFO - criando conexões!
+07/12/2025 23:53:42 - WARNING - criando a tabela votos
+07/12/2025 23:53:44 - DEBUG - conectando ao base de dados
+07/12/2025 23:53:46 - INFO - criando conexões!
+07/12/2025 23:53:49 - INFO - pegando todos os usuários de candidatos
+07/12/2025 23:53:58 - WARNING - fechando a conexão com à base de dados
+07/12/2025 23:53:59 - INFO - 🔎 Buscando todos os candidatos
+07/12/2025 23:54:00 - INFO - 🔎 Buscando todos os votos
+07/12/2025 23:54:01 - INFO - 🔎 Buscando todos os eleitores
+07/12/2025 23:54:23 - ERROR - ❌ eleitor 'MARIO' não está na base de dados!
+07/12/2025 23:54:42 - DEBUG - criando conexão com a base de dados
+07/12/2025 23:54:44 - INFO - criando conexões!
+07/12/2025 23:54:47 - WARNING - criando a tabela votos
+07/12/2025 23:54:49 - DEBUG - conectando ao base de dados
+07/12/2025 23:54:51 - INFO - criando conexões!
+07/12/2025 23:54:54 - INFO - pegando todos os usuários de candidatos
+07/12/2025 23:55:03 - WARNING - fechando a conexão com à base de dados
+07/12/2025 23:55:04 - INFO - 🔎 Buscando todos os candidatos
+07/12/2025 23:55:05 - INFO - 🔎 Buscando todos os votos
+07/12/2025 23:55:06 - INFO - 🔎 Buscando todos os eleitores
+07/12/2025 23:55:23 - WARNING - ⚠️
+ Eleitor 'JOSHUA' já votou.
+10/12/2025 15:01:23 - DEBUG - iniciando o sistema!
+10/12/2025 15:01:41 - INFO - 🖐🏿✨ obrigado por participar. Vá com Deus !
+10/12/2025 15:01:43 - DEBUG - iniciando o sistema!
+10/12/2025 15:01:59 - INFO - 🖐🏿✨ obrigado por participar. Vá com Deus !
+10/12/2025 15:02:13 - DEBUG - iniciando o sistema!
+10/12/2025 15:19:14 - DEBUG - conectando ao base de dados
+10/12/2025 15:19:16 - INFO - criando conexões!
+10/12/2025 15:19:20 - DEBUG - conectando ao base de dados
+10/12/2025 15:19:22 - INFO - criando conexões!
+10/12/2025 15:20:11 - DEBUG - conectando ao base de dados
+10/12/2025 15:20:13 - INFO - criando conexões!
+10/12/2025 15:21:24 - DEBUG - conectando ao base de dados
+10/12/2025 15:21:26 - INFO - criando conexões!
+10/12/2025 15:25:41 - DEBUG - conectando ao base de dados
+10/12/2025 15:25:43 - INFO - criando conexões!
+10/12/2025 15:27:42 - DEBUG - conectando ao base de dados
+10/12/2025 15:27:44 - INFO - criando conexões!
+10/12/2025 15:27:48 - INFO - Buscando nomes de candidatos
+10/12/2025 15:27:50 - ERROR - ❌ Erro ao cadastrar:
+10/12/2025 15:27:50 - ERROR - NOT NULL constraint failed: CANDIDATOS.NOME
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 67, in alistar
+    con.execute("INSERT INTO CANDIDATOS (NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: CANDIDATOS.NOME
+10/12/2025 15:27:51 - WARNING - fechando as conexoes
+10/12/2025 15:28:33 - DEBUG - conectando ao base de dados
+10/12/2025 15:28:35 - INFO - criando conexões!
+10/12/2025 15:28:39 - INFO - Buscando nomes de candidatos
+10/12/2025 15:28:40 - ERROR - ❌ Erro ao cadastrar:
+10/12/2025 15:28:40 - ERROR - NOT NULL constraint failed: CANDIDATOS.NOME
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 67, in alistar
+    con.execute("INSERT INTO CANDIDATOS (NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: CANDIDATOS.NOME
+10/12/2025 15:28:41 - WARNING - fechando as conexoes
+10/12/2025 15:29:09 - DEBUG - conectando ao base de dados
+10/12/2025 15:29:11 - INFO - criando conexões!
+10/12/2025 15:29:15 - INFO - Buscando nomes de candidatos
+10/12/2025 15:29:16 - ERROR - ❌ Erro ao cadastrar:
+10/12/2025 15:29:16 - ERROR - NOT NULL constraint failed: CANDIDATOS.NOME
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 67, in alistar
+    con.execute("INSERT INTO CANDIDATOS (NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: CANDIDATOS.NOME
+10/12/2025 15:29:17 - WARNING - fechando as conexoes
+10/12/2025 15:32:14 - DEBUG - conectando ao base de dados
+10/12/2025 15:32:16 - INFO - criando conexões!
+10/12/2025 15:33:23 - DEBUG - conectando ao base de dados
+10/12/2025 15:33:25 - INFO - criando conexões!
+10/12/2025 15:35:35 - DEBUG - conectando ao base de dados
+10/12/2025 15:35:37 - INFO - criando conexões!
+10/12/2025 15:35:41 - INFO - Buscando nomes de candidatos
+10/12/2025 15:35:42 - ERROR - ❌ Erro ao cadastrar:
+10/12/2025 15:35:42 - ERROR - Incorrect number of bindings supplied. The current statement uses 4, and there are 5 supplied.
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 67, in alistar
+    con.execute("INSERT INTO CANDIDATOS (NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(self.nome, self.telf, self.partido, self.email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.ProgrammingError: Incorrect number of bindings supplied. The current statement uses 4, and there are 5 supplied.
+10/12/2025 15:35:43 - WARNING - fechando as conexoes
+10/12/2025 15:39:00 - DEBUG - conectando ao base de dados
+10/12/2025 15:39:02 - INFO - criando conexões!
+10/12/2025 15:39:06 - INFO - Buscando nomes de candidatos
+10/12/2025 15:39:07 - ERROR - ❌ Erro ao cadastrar:
+10/12/2025 15:39:07 - ERROR - NOT NULL constraint failed: CANDIDATOS.NOME
+Traceback (most recent call last):
+  File "C:\Users\PC\Desktop\projecto_voto\index.py", line 67, in alistar
+    con.execute("INSERT INTO CANDIDATOS (NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(nome,telf,partido,email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: CANDIDATOS.NOME
+10/12/2025 15:39:08 - WARNING - fechando as conexoes
+10/12/2025 15:39:53 - DEBUG - conectando ao base de dados
+10/12/2025 15:39:55 - INFO - criando conexões!
+10/12/2025 15:39:59 - INFO - Buscando nomes de candidatos
+10/12/2025 15:40:00 - ERROR - ❌ Erro ao cadastrar:
+10/12/2025 15:40:00 - ERROR - NOT NULL constraint failed: CANDIDATOS.NOME
+Traceback (most recent call last):
+  File "C:\Users\PC\Desktop\projecto_voto\index.py", line 67, in alistar
+    con.execute("INSERT INTO CANDIDATOS (NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(nome,telf,partido,email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: CANDIDATOS.NOME
+10/12/2025 15:40:01 - WARNING - fechando as conexoes
+10/12/2025 15:44:06 - DEBUG - conectando ao base de dados
+10/12/2025 15:44:09 - INFO - criando conexões!
+10/12/2025 15:44:13 - INFO - Buscando nomes de candidatos
+10/12/2025 15:44:15 - ERROR - ❌ Erro ao cadastrar:
+10/12/2025 15:44:15 - ERROR - NOT NULL constraint failed: CANDIDATOS.NOME
+Traceback (most recent call last):
+  File "C:\Users\PC\Desktop\projecto_voto\index.py", line 67, in alistar
+    con.execute("INSERT INTO CANDIDATOS (NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(nome,telf,partido,email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: CANDIDATOS.NOME
+10/12/2025 15:44:16 - WARNING - fechando as conexoes
+10/12/2025 15:44:42 - DEBUG - conectando ao base de dados
+10/12/2025 15:44:44 - INFO - criando conexões!
+10/12/2025 15:44:48 - INFO - Buscando nomes de candidatos
+10/12/2025 15:44:49 - ERROR - ❌ Erro ao cadastrar:
+10/12/2025 15:44:49 - ERROR - NOT NULL constraint failed: CANDIDATOS.NOME
+Traceback (most recent call last):
+  File "C:\Users\PC\Desktop\projecto_voto\index.py", line 67, in alistar
+    con.execute("INSERT INTO CANDIDATOS (NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(nome,telf,partido,email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: CANDIDATOS.NOME
+10/12/2025 15:44:50 - WARNING - fechando as conexoes
+10/12/2025 16:37:27 - DEBUG - iniciando o sistema!
+10/12/2025 16:39:28 - DEBUG - iniciando o sistema!
+10/12/2025 16:39:52 - DEBUG - iniciando o sistema!
+10/12/2025 16:40:52 - DEBUG - criando conexão com a base de dados
+10/12/2025 16:40:54 - INFO - criando conexões!
+10/12/2025 16:40:57 - WARNING - criando a tabela votos
+10/12/2025 16:40:59 - DEBUG - conectando ao base de dados
+10/12/2025 16:41:01 - INFO - criando conexões!
+10/12/2025 16:41:04 - INFO - pegando todos os usuários de candidatos
+10/12/2025 16:41:13 - WARNING - fechando a conexão com à base de dados
+10/12/2025 16:41:14 - INFO - 🔎 Buscando todos os candidatos
+10/12/2025 16:41:15 - INFO - 🔎 Buscando todos os votos
+10/12/2025 16:41:16 - INFO - 🔎 Buscando todos os eleitores
+10/12/2025 16:43:20 - DEBUG - conectando ao base de dados
+10/12/2025 16:43:24 - INFO - criando conexões!
+10/12/2025 16:43:28 - INFO - Buscando nomes de candidatos
+10/12/2025 16:43:29 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 16:43:30 - WARNING - fechando as conexoes
+10/12/2025 16:44:29 - DEBUG - conectando ao base de dados
+10/12/2025 16:44:31 - INFO - criando conexões!
+10/12/2025 16:44:35 - INFO - Buscando nomes de candidatos
+10/12/2025 16:44:36 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 16:44:37 - WARNING - fechando as conexoes
+10/12/2025 16:44:53 - DEBUG - conectando ao base de dados
+10/12/2025 16:44:55 - INFO - criando conexões!
+10/12/2025 16:44:59 - INFO - Buscando nomes de candidatos
+10/12/2025 16:45:00 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 16:45:17 - DEBUG - conectando ao base de dados
+10/12/2025 16:45:19 - INFO - criando conexões!
+10/12/2025 16:45:23 - INFO - Buscando nomes de candidatos
+10/12/2025 16:45:24 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 16:45:25 - WARNING - fechando as conexoes
+10/12/2025 16:54:25 - DEBUG - conectando ao base de dados
+10/12/2025 16:54:27 - INFO - criando conexões!
+10/12/2025 16:54:31 - INFO - Buscando nomes de candidatos
+10/12/2025 16:55:34 - DEBUG - conectando ao base de dados
+10/12/2025 16:55:36 - INFO - criando conexões!
+10/12/2025 16:55:40 - INFO - Buscando nomes de candidatos
+10/12/2025 17:01:04 - DEBUG - criando as conexões
+10/12/2025 17:01:06 - INFO - criando conexões!
+10/12/2025 17:01:09 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:01:09 - INFO - salvar a sessão
+10/12/2025 17:01:10 - INFO - # Alistamento de Candidatos
+10/12/2025 17:01:11 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:01:13 - DEBUG - conectando ao base de dados
+10/12/2025 17:01:15 - INFO - criando conexões!
+10/12/2025 17:01:19 - INFO - Buscando nomes de candidatos
+10/12/2025 17:01:20 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:01:58 - DEBUG - criando as conexões
+10/12/2025 17:02:00 - INFO - criando conexões!
+10/12/2025 17:02:03 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:02:03 - INFO - salvar a sessão
+10/12/2025 17:02:04 - INFO - # Alistamento de Candidatos
+10/12/2025 17:02:05 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:02:07 - DEBUG - conectando ao base de dados
+10/12/2025 17:02:09 - INFO - criando conexões!
+10/12/2025 17:02:13 - INFO - Buscando nomes de candidatos
+10/12/2025 17:02:14 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:04:53 - DEBUG - criando as conexões
+10/12/2025 17:04:55 - INFO - criando conexões!
+10/12/2025 17:04:58 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:04:58 - INFO - salvar a sessão
+10/12/2025 17:04:59 - INFO - # Alistamento de Candidatos
+10/12/2025 17:05:00 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:05:02 - DEBUG - conectando ao base de dados
+10/12/2025 17:05:04 - INFO - criando conexões!
+10/12/2025 17:05:08 - INFO - Buscando nomes de candidatos
+10/12/2025 17:05:09 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:05:20 - DEBUG - criando as conexões
+10/12/2025 17:05:22 - INFO - criando conexões!
+10/12/2025 17:05:25 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:05:25 - INFO - salvar a sessão
+10/12/2025 17:05:26 - INFO - # Alistamento de Candidatos
+10/12/2025 17:05:27 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:05:29 - DEBUG - conectando ao base de dados
+10/12/2025 17:05:31 - INFO - criando conexões!
+10/12/2025 17:05:35 - INFO - Buscando nomes de candidatos
+10/12/2025 17:05:36 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:06:19 - DEBUG - criando as conexões
+10/12/2025 17:06:21 - INFO - criando conexões!
+10/12/2025 17:06:24 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:06:24 - INFO - salvar a sessão
+10/12/2025 17:06:25 - INFO - # Alistamento de Candidatos
+10/12/2025 17:06:26 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:06:28 - DEBUG - conectando ao base de dados
+10/12/2025 17:06:30 - INFO - criando conexões!
+10/12/2025 17:06:34 - INFO - Buscando nomes de candidatos
+10/12/2025 17:06:35 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:06:54 - DEBUG - criando as conexões
+10/12/2025 17:06:56 - INFO - criando conexões!
+10/12/2025 17:06:59 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:06:59 - INFO - salvar a sessão
+10/12/2025 17:07:00 - INFO - # Alistamento de Candidatos
+10/12/2025 17:07:01 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:07:04 - DEBUG - conectando ao base de dados
+10/12/2025 17:07:06 - INFO - criando conexões!
+10/12/2025 17:07:10 - INFO - Buscando nomes de candidatos
+10/12/2025 17:07:11 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:07:36 - DEBUG - criando as conexões
+10/12/2025 17:07:38 - INFO - criando conexões!
+10/12/2025 17:07:41 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:07:41 - INFO - salvar a sessão
+10/12/2025 17:07:42 - INFO - # Alistamento de Candidatos
+10/12/2025 17:07:43 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:07:45 - DEBUG - conectando ao base de dados
+10/12/2025 17:07:47 - INFO - criando conexões!
+10/12/2025 17:07:51 - INFO - Buscando nomes de candidatos
+10/12/2025 17:07:52 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 17:07:53 - WARNING - fechando as conexoes
+10/12/2025 17:10:29 - DEBUG - criando as conexões
+10/12/2025 17:10:31 - INFO - criando conexões!
+10/12/2025 17:10:34 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:10:34 - INFO - salvar a sessão
+10/12/2025 17:10:35 - INFO - # Alistamento de Candidatos
+10/12/2025 17:10:36 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:10:38 - DEBUG - conectando ao base de dados
+10/12/2025 17:10:40 - INFO - criando conexões!
+10/12/2025 17:10:44 - INFO - Buscando nomes de candidatos
+10/12/2025 17:10:45 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:10:58 - DEBUG - criando as conexões
+10/12/2025 17:11:00 - INFO - criando conexões!
+10/12/2025 17:11:03 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:11:03 - INFO - salvar a sessão
+10/12/2025 17:11:04 - INFO - # Alistamento de Candidatos
+10/12/2025 17:11:05 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:11:07 - DEBUG - conectando ao base de dados
+10/12/2025 17:11:09 - INFO - criando conexões!
+10/12/2025 17:11:13 - INFO - Buscando nomes de candidatos
+10/12/2025 17:11:14 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:11:23 - DEBUG - criando as conexões
+10/12/2025 17:11:25 - INFO - criando conexões!
+10/12/2025 17:11:28 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:11:28 - INFO - salvar a sessão
+10/12/2025 17:11:29 - INFO - # Alistamento de Candidatos
+10/12/2025 17:11:30 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:11:32 - DEBUG - conectando ao base de dados
+10/12/2025 17:11:34 - INFO - criando conexões!
+10/12/2025 17:11:38 - INFO - Buscando nomes de candidatos
+10/12/2025 17:12:10 - DEBUG - criando as conexões
+10/12/2025 17:12:12 - INFO - criando conexões!
+10/12/2025 17:12:15 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:12:15 - INFO - salvar a sessão
+10/12/2025 17:12:16 - INFO - # Alistamento de Candidatos
+10/12/2025 17:12:17 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:12:19 - DEBUG - conectando ao base de dados
+10/12/2025 17:12:21 - INFO - criando conexões!
+10/12/2025 17:12:25 - INFO - Buscando nomes de candidatos
+10/12/2025 17:13:02 - DEBUG - criando as conexões
+10/12/2025 17:13:04 - INFO - criando conexões!
+10/12/2025 17:13:07 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:13:07 - INFO - salvar a sessão
+10/12/2025 17:13:08 - INFO - # Alistamento de Candidatos
+10/12/2025 17:13:09 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:13:11 - DEBUG - conectando ao base de dados
+10/12/2025 17:13:13 - INFO - criando conexões!
+10/12/2025 17:13:17 - INFO - Buscando nomes de candidatos
+10/12/2025 17:13:18 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 17:13:19 - WARNING - fechando as conexoes
+10/12/2025 17:15:38 - DEBUG - criando as conexões
+10/12/2025 17:15:40 - INFO - criando conexões!
+10/12/2025 17:15:43 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:15:43 - INFO - salvar a sessão
+10/12/2025 17:15:44 - INFO - # Alistamento de Candidatos
+10/12/2025 17:15:45 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:15:47 - DEBUG - conectando ao base de dados
+10/12/2025 17:15:49 - INFO - criando conexões!
+10/12/2025 17:15:53 - INFO - Buscando nomes de candidatos
+10/12/2025 17:15:54 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:16:10 - DEBUG - criando as conexões
+10/12/2025 17:16:12 - INFO - criando conexões!
+10/12/2025 17:16:15 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:16:15 - INFO - salvar a sessão
+10/12/2025 17:16:16 - INFO - # Alistamento de Candidatos
+10/12/2025 17:16:17 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:16:19 - DEBUG - conectando ao base de dados
+10/12/2025 17:16:21 - INFO - criando conexões!
+10/12/2025 17:16:25 - INFO - Buscando nomes de candidatos
+10/12/2025 17:16:26 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 17:16:27 - WARNING - fechando as conexoes
+10/12/2025 17:37:23 - DEBUG - criando as conexões
+10/12/2025 17:37:25 - INFO - criando conexões!
+10/12/2025 17:37:28 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:37:28 - INFO - salvar a sessão
+10/12/2025 17:37:29 - INFO - # Alistamento de Candidatos
+10/12/2025 17:37:30 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:37:32 - DEBUG - conectando ao base de dados
+10/12/2025 17:37:34 - INFO - criando conexões!
+10/12/2025 17:37:38 - INFO - Buscando nomes de candidatos
+10/12/2025 17:37:39 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 17:37:40 - WARNING - fechando as conexoes
+10/12/2025 17:41:28 - DEBUG - criando as conexões
+10/12/2025 17:41:30 - INFO - criando conexões!
+10/12/2025 17:41:33 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:41:33 - INFO - salvar a sessão
+10/12/2025 17:41:34 - INFO - # Alistamento de Candidatos
+10/12/2025 17:41:35 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:41:37 - DEBUG - conectando ao base de dados
+10/12/2025 17:41:39 - INFO - criando conexões!
+10/12/2025 17:41:43 - INFO - Buscando nomes de candidatos
+10/12/2025 17:41:44 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:42:01 - DEBUG - criando as conexões
+10/12/2025 17:42:03 - INFO - criando conexões!
+10/12/2025 17:42:06 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:42:06 - INFO - salvar a sessão
+10/12/2025 17:42:07 - INFO - # Alistamento de Candidatos
+10/12/2025 17:42:08 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:42:10 - DEBUG - conectando ao base de dados
+10/12/2025 17:42:12 - INFO - criando conexões!
+10/12/2025 17:42:16 - INFO - Buscando nomes de candidatos
+10/12/2025 17:42:17 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 17:42:18 - WARNING - fechando as conexoes
+10/12/2025 17:44:08 - DEBUG - criando as conexões
+10/12/2025 17:44:10 - INFO - criando conexões!
+10/12/2025 17:44:13 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:44:13 - INFO - salvar a sessão
+10/12/2025 17:44:14 - INFO - # Alistamento de Candidatos
+10/12/2025 17:44:15 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:44:17 - DEBUG - conectando ao base de dados
+10/12/2025 17:44:19 - INFO - criando conexões!
+10/12/2025 17:44:23 - INFO - Buscando nomes de candidatos
+10/12/2025 17:44:24 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 17:49:58 - DEBUG - criando as conexões
+10/12/2025 17:50:00 - INFO - criando conexões!
+10/12/2025 17:50:03 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:50:03 - INFO - salvar a sessão
+10/12/2025 17:50:03 - INFO - # Alistamento de Candidatos
+10/12/2025 17:50:03 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:50:04 - DEBUG - conectando ao base de dados
+10/12/2025 17:50:06 - INFO - criando conexões!
+10/12/2025 17:50:09 - INFO - Buscando nomes de candidatos
+10/12/2025 17:50:10 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 17:50:11 - WARNING - fechando as conexoes
+10/12/2025 17:59:52 - DEBUG - criando as conexões
+10/12/2025 17:59:54 - INFO - criando conexões!
+10/12/2025 17:59:57 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 17:59:57 - INFO - salvar a sessão
+10/12/2025 17:59:57 - INFO - # Alistamento de Candidatos
+10/12/2025 17:59:57 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 17:59:58 - DEBUG - conectando ao base de dados
+10/12/2025 18:00:00 - INFO - criando conexões!
+10/12/2025 18:00:03 - INFO - Buscando nomes de candidatos
+10/12/2025 18:00:03 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:00:04 - WARNING - fechando as conexoes
+10/12/2025 18:01:15 - DEBUG - criando as conexões
+10/12/2025 18:01:17 - INFO - criando conexões!
+10/12/2025 18:01:20 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:01:20 - INFO - salvar a sessão
+10/12/2025 18:01:20 - INFO - # Alistamento de Candidatos
+10/12/2025 18:01:20 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:01:21 - DEBUG - conectando ao base de dados
+10/12/2025 18:01:23 - INFO - criando conexões!
+10/12/2025 18:01:26 - INFO - Buscando nomes de candidatos
+10/12/2025 18:01:26 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 18:03:38 - DEBUG - criando as conexões
+10/12/2025 18:03:40 - INFO - criando conexões!
+10/12/2025 18:03:43 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:03:43 - INFO - salvar a sessão
+10/12/2025 18:03:43 - INFO - # Alistamento de Candidatos
+10/12/2025 18:03:43 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:03:44 - DEBUG - conectando ao base de dados
+10/12/2025 18:03:46 - INFO - criando conexões!
+10/12/2025 18:03:49 - INFO - Buscando nomes de candidatos
+10/12/2025 18:03:49 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 18:04:10 - DEBUG - criando as conexões
+10/12/2025 18:04:12 - INFO - criando conexões!
+10/12/2025 18:04:15 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:04:15 - INFO - salvar a sessão
+10/12/2025 18:04:15 - INFO - # Alistamento de Candidatos
+10/12/2025 18:04:15 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:04:16 - DEBUG - conectando ao base de dados
+10/12/2025 18:04:18 - INFO - criando conexões!
+10/12/2025 18:04:21 - INFO - Buscando nomes de candidatos
+10/12/2025 18:04:22 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:04:23 - WARNING - fechando as conexoes
+10/12/2025 18:08:09 - DEBUG - criando as conexões
+10/12/2025 18:08:11 - INFO - criando conexões!
+10/12/2025 18:08:14 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:08:14 - INFO - salvar a sessão
+10/12/2025 18:08:14 - INFO - # Alistamento de Candidatos
+10/12/2025 18:08:14 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:08:15 - DEBUG - conectando ao base de dados
+10/12/2025 18:08:17 - INFO - criando conexões!
+10/12/2025 18:08:20 - INFO - Buscando nomes de candidatos
+10/12/2025 18:08:20 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:08:21 - WARNING - fechando as conexoes
+10/12/2025 18:09:41 - DEBUG - criando as conexões
+10/12/2025 18:09:43 - INFO - criando conexões!
+10/12/2025 18:09:46 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:09:46 - INFO - salvar a sessão
+10/12/2025 18:09:46 - INFO - # Alistamento de Candidatos
+10/12/2025 18:09:46 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:09:47 - DEBUG - conectando ao base de dados
+10/12/2025 18:09:49 - INFO - criando conexões!
+10/12/2025 18:09:52 - INFO - Buscando nomes de candidatos
+10/12/2025 18:09:52 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:09:53 - WARNING - fechando as conexoes
+10/12/2025 18:11:18 - DEBUG - criando as conexões
+10/12/2025 18:11:20 - INFO - criando conexões!
+10/12/2025 18:11:23 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:11:23 - INFO - salvar a sessão
+10/12/2025 18:11:23 - INFO - # Alistamento de Candidatos
+10/12/2025 18:11:23 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:11:24 - DEBUG - conectando ao base de dados
+10/12/2025 18:11:26 - INFO - criando conexões!
+10/12/2025 18:11:29 - INFO - Buscando nomes de candidatos
+10/12/2025 18:11:29 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:11:30 - WARNING - fechando as conexoes
+10/12/2025 18:12:34 - DEBUG - criando as conexões
+10/12/2025 18:12:34 - DEBUG - criando as conexões
+10/12/2025 18:12:36 - INFO - criando conexões!
+10/12/2025 18:12:36 - INFO - criando conexões!
+10/12/2025 18:12:39 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:12:39 - INFO - salvar a sessão
+10/12/2025 18:12:39 - INFO - # Alistamento de Candidatos
+10/12/2025 18:12:39 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:12:39 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:12:39 - INFO - salvar a sessão
+10/12/2025 18:12:39 - INFO - # Alistamento de Candidatos
+10/12/2025 18:12:39 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:12:40 - DEBUG - conectando ao base de dados
+10/12/2025 18:12:40 - DEBUG - conectando ao base de dados
+10/12/2025 18:12:42 - INFO - criando conexões!
+10/12/2025 18:12:42 - INFO - criando conexões!
+10/12/2025 18:12:45 - INFO - Buscando nomes de candidatos
+10/12/2025 18:12:45 - INFO - Buscando nomes de candidatos
+10/12/2025 18:12:46 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:12:46 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 18:12:47 - WARNING - fechando as conexoes
+10/12/2025 18:14:15 - DEBUG - criando as conexões
+10/12/2025 18:14:15 - INFO - criando conexões!
+10/12/2025 18:14:15 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:14:15 - INFO - salvar a sessão
+10/12/2025 18:14:15 - INFO - # Alistamento de Candidatos
+10/12/2025 18:14:15 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:14:15 - DEBUG - conectando ao base de dados
+10/12/2025 18:14:15 - INFO - criando conexões!
+10/12/2025 18:14:15 - INFO - Buscando nomes de candidatos
+10/12/2025 18:14:15 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:14:16 - WARNING - fechando as conexoes
+10/12/2025 18:15:10 - DEBUG - criando as conexões
+10/12/2025 18:15:10 - INFO - criando conexões!
+10/12/2025 18:15:10 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:15:10 - INFO - salvar a sessão
+10/12/2025 18:15:10 - INFO - # Alistamento de Candidatos
+10/12/2025 18:15:10 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:15:10 - DEBUG - conectando ao base de dados
+10/12/2025 18:15:10 - INFO - criando conexões!
+10/12/2025 18:15:10 - INFO - Buscando nomes de candidatos
+10/12/2025 18:15:10 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 18:15:16 - DEBUG - criando as conexões
+10/12/2025 18:15:16 - INFO - criando conexões!
+10/12/2025 18:15:16 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:15:16 - INFO - salvar a sessão
+10/12/2025 18:15:16 - INFO - # Alistamento de Candidatos
+10/12/2025 18:15:16 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:15:16 - DEBUG - conectando ao base de dados
+10/12/2025 18:15:16 - INFO - criando conexões!
+10/12/2025 18:15:16 - INFO - Buscando nomes de candidatos
+10/12/2025 18:15:16 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:15:17 - WARNING - fechando as conexoes
+10/12/2025 18:16:35 - DEBUG - criando as conexões
+10/12/2025 18:16:35 - INFO - criando conexões!
+10/12/2025 18:16:35 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:16:35 - INFO - salvar a sessão
+10/12/2025 18:16:35 - INFO - # Alistamento de Candidatos
+10/12/2025 18:16:35 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:16:35 - DEBUG - conectando ao base de dados
+10/12/2025 18:16:35 - INFO - criando conexões!
+10/12/2025 18:16:35 - INFO - Buscando nomes de candidatos
+10/12/2025 18:16:35 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:16:36 - WARNING - fechando as conexoes
+10/12/2025 18:17:26 - DEBUG - criando as conexões
+10/12/2025 18:17:26 - INFO - criando conexões!
+10/12/2025 18:17:26 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:17:26 - INFO - salvar a sessão
+10/12/2025 18:17:26 - INFO - # Alistamento de Candidatos
+10/12/2025 18:17:26 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:17:26 - DEBUG - conectando ao base de dados
+10/12/2025 18:17:26 - INFO - criando conexões!
+10/12/2025 18:17:26 - INFO - Buscando nomes de candidatos
+10/12/2025 18:17:26 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:17:27 - WARNING - fechando as conexoes
+10/12/2025 18:18:34 - DEBUG - criando as conexões
+10/12/2025 18:18:34 - INFO - criando conexões!
+10/12/2025 18:18:34 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:18:34 - INFO - salvar a sessão
+10/12/2025 18:18:34 - INFO - # Alistamento de Candidatos
+10/12/2025 18:18:34 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:18:34 - DEBUG - conectando ao base de dados
+10/12/2025 18:18:34 - INFO - criando conexões!
+10/12/2025 18:18:34 - INFO - Buscando nomes de candidatos
+10/12/2025 18:18:34 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:18:35 - WARNING - fechando as conexoes
+10/12/2025 18:20:06 - DEBUG - criando as conexões
+10/12/2025 18:20:06 - INFO - criando conexões!
+10/12/2025 18:20:06 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:20:07 - INFO - salvar a sessão
+10/12/2025 18:20:07 - INFO - # Alistamento de Candidatos
+10/12/2025 18:20:07 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:20:07 - DEBUG - conectando ao base de dados
+10/12/2025 18:20:07 - INFO - criando conexões!
+10/12/2025 18:20:07 - INFO - Buscando nomes de candidatos
+10/12/2025 18:20:07 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:20:08 - WARNING - fechando as conexoes
+10/12/2025 18:20:45 - DEBUG - criando as conexões
+10/12/2025 18:20:45 - INFO - criando conexões!
+10/12/2025 18:20:45 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:20:45 - INFO - salvar a sessão
+10/12/2025 18:20:45 - INFO - # Alistamento de Candidatos
+10/12/2025 18:20:45 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:20:45 - DEBUG - conectando ao base de dados
+10/12/2025 18:20:45 - INFO - criando conexões!
+10/12/2025 18:20:45 - INFO - Buscando nomes de candidatos
+10/12/2025 18:20:45 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:20:46 - WARNING - fechando as conexoes
+10/12/2025 18:21:24 - DEBUG - criando as conexões
+10/12/2025 18:21:24 - INFO - criando conexões!
+10/12/2025 18:21:24 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:21:24 - INFO - salvar a sessão
+10/12/2025 18:21:24 - INFO - # Alistamento de Candidatos
+10/12/2025 18:21:24 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:21:24 - DEBUG - conectando ao base de dados
+10/12/2025 18:21:24 - INFO - criando conexões!
+10/12/2025 18:21:24 - INFO - Buscando nomes de candidatos
+10/12/2025 18:21:24 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:21:25 - WARNING - fechando as conexoes
+10/12/2025 18:21:43 - DEBUG - criando as conexões
+10/12/2025 18:21:43 - INFO - criando conexões!
+10/12/2025 18:21:43 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:21:43 - INFO - salvar a sessão
+10/12/2025 18:21:43 - INFO - # Alistamento de Candidatos
+10/12/2025 18:21:43 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:21:43 - DEBUG - conectando ao base de dados
+10/12/2025 18:21:43 - INFO - criando conexões!
+10/12/2025 18:21:43 - INFO - Buscando nomes de candidatos
+10/12/2025 18:21:43 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:21:44 - WARNING - fechando as conexoes
+10/12/2025 18:22:51 - DEBUG - criando as conexões
+10/12/2025 18:22:51 - INFO - criando conexões!
+10/12/2025 18:22:51 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:22:51 - INFO - salvar a sessão
+10/12/2025 18:22:51 - INFO - # Alistamento de Candidatos
+10/12/2025 18:22:51 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:22:51 - DEBUG - conectando ao base de dados
+10/12/2025 18:22:51 - INFO - criando conexões!
+10/12/2025 18:22:51 - INFO - Buscando nomes de candidatos
+10/12/2025 18:22:52 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:22:53 - WARNING - fechando as conexoes
+10/12/2025 18:23:57 - DEBUG - criando as conexões
+10/12/2025 18:23:57 - INFO - criando conexões!
+10/12/2025 18:23:57 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:23:57 - INFO - salvar a sessão
+10/12/2025 18:23:57 - INFO - # Alistamento de Candidatos
+10/12/2025 18:23:57 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:23:57 - DEBUG - conectando ao base de dados
+10/12/2025 18:23:57 - INFO - criando conexões!
+10/12/2025 18:23:57 - INFO - Buscando nomes de candidatos
+10/12/2025 18:23:57 - INFO - ✅ Candidatos cadastrado com sucesso!
+10/12/2025 18:23:58 - WARNING - fechando as conexoes
+10/12/2025 18:25:43 - INFO - Criando conexões
+10/12/2025 18:25:43 - INFO - criando conexões!
+10/12/2025 18:25:43 - INFO - salvar as sessões
+10/12/2025 18:25:44 - INFO - criando conexões!
+10/12/2025 18:28:35 - DEBUG - criando as conexões
+10/12/2025 18:28:35 - INFO - criando conexões!
+10/12/2025 18:28:35 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:28:35 - INFO - salvar a sessão
+10/12/2025 18:28:35 - INFO - # Alistamento de Candidatos
+10/12/2025 18:28:35 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:28:35 - DEBUG - conectando ao base de dados
+10/12/2025 18:28:35 - INFO - criando conexões!
+10/12/2025 18:28:35 - INFO - Buscando nomes de candidatos
+10/12/2025 18:28:35 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+10/12/2025 18:29:12 - DEBUG - criando as conexões
+10/12/2025 18:29:12 - INFO - criando conexões!
+10/12/2025 18:29:12 - WARNING - criando ou editando a tabela candidatos
+10/12/2025 18:29:12 - INFO - salvar a sessão
+10/12/2025 18:29:12 - INFO - # Alistamento de Candidatos
+10/12/2025 18:29:12 - WARNING - fechando todas as conexões com a base de dados
+10/12/2025 18:29:12 - DEBUG - conectando ao base de dados
+10/12/2025 18:29:12 - INFO - criando conexões!
+10/12/2025 18:29:12 - INFO - Buscando nomes de candidatos
+10/12/2025 18:29:12 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+11/12/2025 11:53:23 - DEBUG - criando as conexões
+11/12/2025 11:53:24 - INFO - criando conexões!
+11/12/2025 11:53:24 - WARNING - criando ou editando a tabela candidatos
+11/12/2025 11:53:24 - INFO - salvar a sessão
+11/12/2025 11:53:24 - INFO - # Alistamento de Candidatos
+11/12/2025 11:53:24 - WARNING - fechando todas as conexões com a base de dados
+11/12/2025 11:53:24 - DEBUG - conectando ao base de dados
+11/12/2025 11:53:24 - INFO - criando conexões!
+11/12/2025 11:53:24 - INFO - Buscando nomes de candidatos
+11/12/2025 11:53:24 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+11/12/2025 11:53:57 - DEBUG - criando as conexões
+11/12/2025 11:53:57 - INFO - criando conexões!
+11/12/2025 11:53:57 - WARNING - criando ou editando a tabela candidatos
+11/12/2025 11:53:57 - INFO - salvar a sessão
+11/12/2025 11:53:57 - INFO - # Alistamento de Candidatos
+11/12/2025 11:53:57 - WARNING - fechando todas as conexões com a base de dados
+11/12/2025 11:53:57 - DEBUG - conectando ao base de dados
+11/12/2025 11:53:57 - INFO - criando conexões!
+11/12/2025 11:53:57 - INFO - Buscando nomes de candidatos
+11/12/2025 11:53:57 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+11/12/2025 12:02:55 - DEBUG - criando as conexões
+11/12/2025 12:02:55 - INFO - criando conexões!
+11/12/2025 12:02:55 - WARNING - criando ou editando a tabela candidatos
+11/12/2025 12:02:55 - INFO - salvar a sessão
+11/12/2025 12:02:55 - INFO - # Alistamento de Candidatos
+11/12/2025 12:02:55 - WARNING - fechando todas as conexões com a base de dados
+11/12/2025 12:02:55 - DEBUG - conectando ao base de dados
+11/12/2025 12:02:55 - INFO - criando conexões!
+11/12/2025 12:02:55 - INFO - Buscando nomes de candidatos
+11/12/2025 12:02:55 - INFO - ✅ Candidatos cadastrado com sucesso!
+11/12/2025 12:02:56 - WARNING - fechando as conexoes
+11/12/2025 12:08:55 - DEBUG - criando as conexões
+11/12/2025 12:08:56 - INFO - criando conexões!
+11/12/2025 12:08:56 - WARNING - criando ou editando a tabela candidatos
+11/12/2025 12:08:57 - INFO - salvar a sessão
+11/12/2025 12:08:57 - INFO - # Alistamento de Candidatos
+11/12/2025 12:08:57 - WARNING - fechando todas as conexões com a base de dados
+11/12/2025 12:08:57 - DEBUG - conectando ao base de dados
+11/12/2025 12:08:57 - INFO - criando conexões!
+11/12/2025 12:08:57 - INFO - Buscando nomes de candidatos
+11/12/2025 12:08:57 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+11/12/2025 12:35:15 - DEBUG - criando as conexões
+11/12/2025 12:35:15 - INFO - criando conexões!
+11/12/2025 12:35:15 - WARNING - criando ou editando a tabela candidatos
+11/12/2025 12:35:15 - INFO - salvar a sessão
+11/12/2025 12:35:15 - INFO - # Alistamento de Candidatos
+11/12/2025 12:35:15 - WARNING - fechando todas as conexões com a base de dados
+11/12/2025 12:35:15 - DEBUG - conectando ao base de dados
+11/12/2025 12:35:15 - INFO - criando conexões!
+11/12/2025 12:35:15 - INFO - Buscando nomes de candidatos
+11/12/2025 12:35:15 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+11/12/2025 12:39:15 - INFO - Criando conexões
+11/12/2025 12:39:15 - INFO - criando conexões!
+11/12/2025 12:39:15 - INFO - salvar as sessões
+11/12/2025 12:39:15 - WARNING - fechar as conexões
+11/12/2025 12:41:23 - INFO - Criando conexões
+11/12/2025 12:41:23 - INFO - criando conexões!
+11/12/2025 12:41:23 - INFO - salvar as sessões
+11/12/2025 12:41:23 - WARNING - fechar as conexões
+11/12/2025 12:43:57 - INFO - Criando conexões
+11/12/2025 12:43:57 - INFO - criando conexões!
+11/12/2025 12:43:57 - INFO - salvar as sessões
+11/12/2025 12:43:57 - WARNING - fechar as conexões
+11/12/2025 12:43:58 - INFO - criando conexões!
+11/12/2025 12:43:59 - ERROR - ❌ Erro ao cadastrar:
+11/12/2025 12:43:59 - ERROR - table ELEITORES has no column named LOCALIDADE
+Traceback (most recent call last):
+  File "C:\Users\PC\Desktop\projecto_voto\index.py", line 182, in alistar_e
+    con.execute("INSERT INTO ELEITORES (NOME, TELEFONE, BI, LOCALIDADE) VALUES(?,?,?,?)",(nome, telf, bi, gps))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table ELEITORES has no column named LOCALIDADE
+11/12/2025 12:44:00 - WARNING - fechado as conex
+11/12/2025 12:44:48 - INFO - Criando conexões
+11/12/2025 12:44:48 - INFO - criando conexões!
+11/12/2025 12:44:48 - INFO - salvar as sessões
+11/12/2025 12:44:48 - WARNING - fechar as conexões
+11/12/2025 12:44:49 - INFO - criando conexões!
+11/12/2025 12:44:50 - ERROR - ❌ Erro ao cadastrar:
+11/12/2025 12:44:50 - ERROR - table ELEITORES has no column named LOCALIDADE
+Traceback (most recent call last):
+  File "C:\Users\PC\Desktop\projecto_voto\index.py", line 182, in alistar_e
+    con.execute("INSERT INTO ELEITORES (NOME, TELEFONE, BI, LOCALIDADE) VALUES(?,?,?,?)",(nome, telf, bi, gps))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table ELEITORES has no column named LOCALIDADE
+11/12/2025 12:44:51 - WARNING - fechado as conex
+11/12/2025 12:46:37 - INFO - Criando conexões
+11/12/2025 12:46:37 - INFO - criando conexões!
+11/12/2025 12:47:31 - INFO - Criando conexões
+11/12/2025 12:47:31 - INFO - criando conexões!
+11/12/2025 12:47:32 - INFO - salvar as sessões
+11/12/2025 12:47:32 - WARNING - fechar as conexões
+11/12/2025 12:47:33 - INFO - criando conexões!
+11/12/2025 12:47:34 - INFO - ✅ eleitor cadastrado com sucesso!
+11/12/2025 12:47:35 - WARNING - fechado as conex
+11/12/2025 12:49:30 - INFO - Criando conexões
+11/12/2025 12:49:30 - INFO - criando conexões!
+11/12/2025 12:49:30 - INFO - salvar as sessões
+11/12/2025 12:49:30 - WARNING - fechar as conexões
+11/12/2025 12:49:31 - INFO - criando conexões!
+11/12/2025 12:49:31 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+11/12/2025 12:50:35 - DEBUG - criando as conexões
+11/12/2025 12:50:35 - INFO - criando conexões!
+11/12/2025 12:50:35 - WARNING - criando ou editando a tabela candidatos
+11/12/2025 12:50:35 - INFO - salvar a sessão
+11/12/2025 12:50:35 - INFO - # Alistamento de Candidatos
+11/12/2025 12:50:35 - WARNING - fechando todas as conexões com a base de dados
+11/12/2025 12:50:35 - DEBUG - conectando ao base de dados
+11/12/2025 12:50:35 - INFO - criando conexões!
+11/12/2025 12:50:35 - INFO - Buscando nomes de candidatos
+11/12/2025 12:50:35 - INFO - ✅ Candidatos cadastrado com sucesso!
+11/12/2025 12:50:36 - WARNING - fechando as conexoes
+11/12/2025 12:51:14 - INFO - Criando conexões
+11/12/2025 12:51:14 - INFO - criando conexões!
+11/12/2025 12:51:14 - INFO - salvar as sessões
+11/12/2025 12:51:14 - WARNING - fechar as conexões
+11/12/2025 12:51:15 - INFO - criando conexões!
+11/12/2025 12:51:15 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+13/12/2025 13:52:47 - INFO - Criando conexões
+13/12/2025 13:52:48 - INFO - criando conexões!
+13/12/2025 13:52:48 - INFO - salvar as sessões
+13/12/2025 13:52:48 - WARNING - fechar as conexões
+13/12/2025 13:52:49 - INFO - criando conexões!
+13/12/2025 13:52:49 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+13/12/2025 14:08:46 - INFO - criando conexões!
+13/12/2025 14:09:29 - INFO - criando conexões!
+13/12/2025 14:09:54 - INFO - Criando conexões
+13/12/2025 14:09:54 - INFO - criando conexões!
+13/12/2025 14:09:54 - INFO - salvar as sessões
+13/12/2025 14:09:54 - WARNING - fechar as conexões
+13/12/2025 14:09:55 - INFO - criando conexões!
+13/12/2025 14:09:55 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+13/12/2025 14:09:55 - INFO - criando conexões!
+13/12/2025 14:10:46 - INFO - criando conexões!
+13/12/2025 14:11:28 - INFO - criando conexões!
+13/12/2025 14:12:34 - INFO - criando conexões!
+13/12/2025 14:12:51 - INFO - criando conexões!
+13/12/2025 14:13:13 - INFO - criando conexões!
+13/12/2025 14:31:15 - INFO - Criando conexões
+13/12/2025 14:31:16 - INFO - criando conexões!
+13/12/2025 14:31:16 - INFO - salvar as sessões
+13/12/2025 14:31:16 - WARNING - fechar as conexões
+13/12/2025 14:31:17 - INFO - criando conexões!
+13/12/2025 14:31:18 - INFO - ✅ eleitor cadastrado com sucesso!
+13/12/2025 14:31:19 - WARNING - fechado as conex
+13/12/2025 14:34:27 - INFO - Criando conexões
+13/12/2025 14:34:27 - INFO - criando conexões!
+13/12/2025 14:34:27 - INFO - salvar as sessões
+13/12/2025 14:34:27 - WARNING - fechar as conexões
+13/12/2025 14:34:28 - INFO - criando conexões!
+13/12/2025 14:34:28 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+13/12/2025 14:35:39 - INFO - Criando conexões
+13/12/2025 14:35:39 - INFO - criando conexões!
+13/12/2025 14:35:39 - INFO - salvar as sessões
+13/12/2025 14:35:39 - WARNING - fechar as conexões
+13/12/2025 14:35:40 - INFO - criando conexões!
+13/12/2025 14:35:40 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+13/12/2025 14:36:32 - INFO - Criando conexões
+13/12/2025 14:36:32 - INFO - criando conexões!
+13/12/2025 14:36:32 - INFO - salvar as sessões
+13/12/2025 14:36:32 - WARNING - fechar as conexões
+13/12/2025 14:36:33 - INFO - criando conexões!
+13/12/2025 14:36:33 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+13/12/2025 14:40:52 - INFO - criando conexões!
+13/12/2025 14:40:54 - INFO - criando conexões!
+13/12/2025 14:41:21 - INFO - criando conexões!
+13/12/2025 14:41:33 - INFO - criando conexões!
+13/12/2025 14:41:40 - INFO - criando conexões!
+13/12/2025 14:41:41 - INFO - criando conexões!
+13/12/2025 14:45:00 - INFO - criando conexões!
+13/12/2025 14:45:08 - INFO - criando conexões!
+13/12/2025 14:45:37 - INFO - Criando conexões
+13/12/2025 14:45:37 - INFO - criando conexões!
+13/12/2025 14:45:37 - INFO - salvar as sessões
+13/12/2025 14:45:37 - WARNING - fechar as conexões
+13/12/2025 14:45:38 - INFO - criando conexões!
+13/12/2025 14:45:39 - INFO - ✅ eleitor cadastrado com sucesso!
+13/12/2025 14:45:40 - WARNING - fechado as conex
+13/12/2025 14:45:40 - INFO - criando conexões!
+13/12/2025 14:47:16 - INFO - Criando conexões
+13/12/2025 14:47:16 - INFO - criando conexões!
+13/12/2025 14:47:16 - INFO - salvar as sessões
+13/12/2025 14:47:16 - WARNING - fechar as conexões
+13/12/2025 14:47:17 - INFO - criando conexões!
+13/12/2025 14:47:18 - INFO - ✅ eleitor cadastrado com sucesso!
+13/12/2025 14:47:19 - WARNING - fechado as conex
+13/12/2025 14:47:19 - INFO - criando conexões!
+13/12/2025 14:47:23 - DEBUG - criando conexão com a base de dados
+13/12/2025 14:47:23 - INFO - criando conexões!
+13/12/2025 14:47:23 - WARNING - criando a tabela votos
+13/12/2025 14:47:24 - DEBUG - conectando ao base de dados
+13/12/2025 14:47:24 - INFO - criando conexões!
+13/12/2025 14:47:24 - INFO - pegando todos os usuários de candidatos
+13/12/2025 14:47:27 - WARNING - fechando a conexão com à base de dados
+13/12/2025 14:47:27 - INFO - 🔎 Buscando todos os candidatos
+13/12/2025 14:47:27 - INFO - 🔎 Buscando todos os votos
+13/12/2025 14:47:27 - INFO - 🔎 Buscando todos os eleitores
+13/12/2025 14:47:27 - INFO - ✅ Voto registrado com sucesso: Merivalda votou em Merivalda.
+13/12/2025 14:47:27 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+13/12/2025 14:49:01 - DEBUG - criando as conexões
+13/12/2025 14:49:01 - INFO - criando conexões!
+13/12/2025 14:49:01 - WARNING - criando ou editando a tabela candidatos
+13/12/2025 14:49:01 - INFO - salvar a sessão
+13/12/2025 14:49:01 - INFO - # Alistamento de Candidatos
+13/12/2025 14:49:01 - WARNING - fechando todas as conexões com a base de dados
+13/12/2025 14:49:01 - DEBUG - conectando ao base de dados
+13/12/2025 14:49:01 - INFO - criando conexões!
+13/12/2025 14:49:01 - INFO - Buscando nomes de candidatos
+13/12/2025 14:49:01 - INFO - ✅ Candidatos cadastrado com sucesso!
+13/12/2025 14:49:02 - WARNING - fechando as conexoes
+13/12/2025 14:49:17 - INFO - Criando conexões
+13/12/2025 14:49:17 - INFO - criando conexões!
+13/12/2025 14:49:17 - INFO - salvar as sessões
+13/12/2025 14:49:17 - WARNING - fechar as conexões
+13/12/2025 14:49:18 - INFO - criando conexões!
+13/12/2025 14:49:19 - INFO - ✅ eleitor cadastrado com sucesso!
+13/12/2025 14:49:20 - WARNING - fechado as conex
+13/12/2025 14:49:20 - INFO - criando conexões!
+13/12/2025 14:49:51 - DEBUG - criando conexão com a base de dados
+13/12/2025 14:49:51 - INFO - criando conexões!
+13/12/2025 14:49:51 - WARNING - criando a tabela votos
+13/12/2025 14:49:51 - DEBUG - conectando ao base de dados
+13/12/2025 14:49:51 - INFO - criando conexões!
+13/12/2025 14:49:51 - INFO - pegando todos os usuários de candidatos
+13/12/2025 14:49:58 - WARNING - fechando a conexão com à base de dados
+13/12/2025 14:49:58 - INFO - 🔎 Buscando todos os candidatos
+13/12/2025 14:49:58 - INFO - 🔎 Buscando todos os votos
+13/12/2025 14:49:58 - INFO - 🔎 Buscando todos os eleitores
+13/12/2025 14:49:58 - INFO - ✅ Voto registrado com sucesso: carla votou em joshua graciano carvalho da costa.
+13/12/2025 14:49:58 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+13/12/2025 23:05:57 - DEBUG - criando as conexões
+13/12/2025 23:05:57 - INFO - criando conexões!
+13/12/2025 23:05:57 - WARNING - criando ou editando a tabela candidatos
+13/12/2025 23:05:57 - INFO - salvar a sessão
+13/12/2025 23:05:57 - INFO - # Alistamento de Candidatos
+13/12/2025 23:05:57 - WARNING - fechando todas as conexões com a base de dados
+13/12/2025 23:05:57 - DEBUG - conectando ao base de dados
+13/12/2025 23:05:57 - INFO - criando conexões!
+13/12/2025 23:05:57 - INFO - Buscando nomes de candidatos
+13/12/2025 23:05:57 - ERROR - ❌ Erro ao cadastrar:
+13/12/2025 23:05:57 - ERROR - datatype mismatch
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 58, in alistar
+    con.execute("INSERT INTO CANDIDATOS (ID, NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?,?)",(id_unico, nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: datatype mismatch
+13/12/2025 23:05:58 - WARNING - fechando as conexoes
+13/12/2025 23:07:58 - DEBUG - criando as conexões
+13/12/2025 23:07:58 - INFO - criando conexões!
+13/12/2025 23:07:58 - WARNING - criando ou editando a tabela candidatos
+13/12/2025 23:07:58 - INFO - salvar a sessão
+13/12/2025 23:07:58 - INFO - # Alistamento de Candidatos
+13/12/2025 23:07:58 - WARNING - fechando todas as conexões com a base de dados
+13/12/2025 23:07:58 - DEBUG - conectando ao base de dados
+13/12/2025 23:07:58 - INFO - criando conexões!
+13/12/2025 23:07:58 - INFO - Buscando nomes de candidatos
+13/12/2025 23:07:58 - ERROR - ❌ Erro ao cadastrar:
+13/12/2025 23:07:58 - ERROR - datatype mismatch
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 58, in alistar
+    con.execute("INSERT INTO CANDIDATOS (ID, NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?,?)",(id_unico, nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: datatype mismatch
+13/12/2025 23:07:59 - WARNING - fechando as conexoes
+13/12/2025 23:10:25 - DEBUG - criando as conexões
+13/12/2025 23:10:25 - INFO - criando conexões!
+13/12/2025 23:10:25 - WARNING - criando ou editando a tabela candidatos
+13/12/2025 23:10:25 - INFO - salvar a sessão
+13/12/2025 23:10:25 - INFO - # Alistamento de Candidatos
+13/12/2025 23:10:25 - WARNING - fechando todas as conexões com a base de dados
+13/12/2025 23:10:25 - DEBUG - conectando ao base de dados
+13/12/2025 23:10:25 - INFO - criando conexões!
+13/12/2025 23:10:25 - INFO - Buscando nomes de candidatos
+13/12/2025 23:10:25 - ERROR - ❌ Erro ao cadastrar:
+13/12/2025 23:10:25 - ERROR - datatype mismatch
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 58, in alistar
+    con.execute("INSERT INTO CANDIDATOS (ID, NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?,?)",(id_unico, nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: datatype mismatch
+13/12/2025 23:10:26 - WARNING - fechando as conexoes
+13/12/2025 23:12:55 - DEBUG - criando as conexões
+13/12/2025 23:12:55 - INFO - criando conexões!
+13/12/2025 23:12:55 - WARNING - criando ou editando a tabela candidatos
+13/12/2025 23:12:55 - INFO - salvar a sessão
+13/12/2025 23:12:55 - INFO - # Alistamento de Candidatos
+13/12/2025 23:12:55 - WARNING - fechando todas as conexões com a base de dados
+13/12/2025 23:12:55 - DEBUG - conectando ao base de dados
+13/12/2025 23:12:55 - INFO - criando conexões!
+13/12/2025 23:12:55 - INFO - Buscando nomes de candidatos
+13/12/2025 23:12:55 - ERROR - ❌ Erro ao cadastrar:
+13/12/2025 23:12:55 - ERROR - datatype mismatch
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 58, in alistar
+    con.execute("INSERT INTO CANDIDATOS (ID, NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?,?)",(id_unico, nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: datatype mismatch
+13/12/2025 23:12:56 - WARNING - fechando as conexoes
+13/12/2025 23:15:10 - DEBUG - criando as conexões
+13/12/2025 23:15:10 - INFO - criando conexões!
+13/12/2025 23:15:10 - WARNING - criando ou editando a tabela candidatos
+13/12/2025 23:15:10 - INFO - salvar a sessão
+13/12/2025 23:15:10 - INFO - # Alistamento de Candidatos
+13/12/2025 23:15:10 - WARNING - fechando todas as conexões com a base de dados
+13/12/2025 23:15:10 - DEBUG - conectando ao base de dados
+13/12/2025 23:15:10 - INFO - criando conexões!
+13/12/2025 23:15:10 - INFO - Buscando nomes de candidatos
+13/12/2025 23:15:10 - ERROR - ❌ Erro ao cadastrar:
+13/12/2025 23:15:10 - ERROR - datatype mismatch
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 63, in alistar
+    con.execute("INSERT INTO CANDIDATOS (ID, NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?,?)",(id_unico, nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: datatype mismatch
+13/12/2025 23:15:11 - WARNING - fechando as conexoes
+13/12/2025 23:16:30 - DEBUG - criando as conexões
+13/12/2025 23:16:30 - INFO - criando conexões!
+13/12/2025 23:16:30 - WARNING - criando ou editando a tabela candidatos
+13/12/2025 23:16:30 - INFO - salvar a sessão
+13/12/2025 23:16:30 - INFO - # Alistamento de Candidatos
+13/12/2025 23:16:30 - WARNING - fechando todas as conexões com a base de dados
+13/12/2025 23:16:30 - DEBUG - conectando ao base de dados
+13/12/2025 23:16:30 - INFO - criando conexões!
+13/12/2025 23:16:30 - INFO - Buscando nomes de candidatos
+13/12/2025 23:16:30 - ERROR - ❌ Erro ao cadastrar:
+13/12/2025 23:16:30 - ERROR - 4 values for 5 columns
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 63, in alistar
+    con.execute("INSERT INTO CANDIDATOS (ID, NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?)",(id_unico, nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: 4 values for 5 columns
+13/12/2025 23:16:31 - WARNING - fechando as conexoes
+13/12/2025 23:18:35 - DEBUG - criando as conexões
+13/12/2025 23:18:35 - INFO - criando conexões!
+13/12/2025 23:18:35 - WARNING - criando ou editando a tabela candidatos
+13/12/2025 23:18:35 - INFO - salvar a sessão
+13/12/2025 23:18:35 - INFO - # Alistamento de Candidatos
+13/12/2025 23:18:35 - WARNING - fechando todas as conexões com a base de dados
+13/12/2025 23:18:35 - DEBUG - conectando ao base de dados
+13/12/2025 23:18:35 - INFO - criando conexões!
+13/12/2025 23:18:35 - INFO - Buscando nomes de candidatos
+13/12/2025 23:18:36 - ERROR - ❌ Erro ao cadastrar:
+13/12/2025 23:18:36 - ERROR - datatype mismatch
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 64, in alistar
+    con.execute("INSERT INTO CANDIDATOS (ID, NOME, TELEFONE,PARTIDO,EMAIL) VALUES (?,?,?,?,?)",(id_unico, nome, telf, partido, email))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: datatype mismatch
+13/12/2025 23:18:37 - WARNING - fechando as conexoes
+13/12/2025 23:27:18 - INFO - Conexão com a base de dados criada
+13/12/2025 23:27:18 - WARNING - Criando tabela CANDIDATOS
+13/12/2025 23:27:18 - INFO - Tabela CANDIDATOS pronta
+13/12/2025 23:27:18 - INFO - Conexão com a base de dados criada
+13/12/2025 23:27:19 - INFO - Tabelas de eleitores e censo criadas
+13/12/2025 23:27:19 - INFO - Conexão com a base de dados criada
+13/12/2025 23:27:19 - INFO - Tabela VOTOS criada
+13/12/2025 23:27:19 - INFO - Conexão com a base de dados criada
+13/12/2025 23:27:20 - INFO - ✅ Candidato 'Antonio' cadastrado
+13/12/2025 23:27:20 - INFO - Conexão com a base de dados criada
+13/12/2025 23:27:20 - INFO - ✅ Eleitor 'Joshua' cadastrado com sucesso
+13/12/2025 23:28:08 - INFO - Conexão com a base de dados criada
+13/12/2025 23:28:08 - INFO - ✅ Voto do eleitor '921186206' registrado anonimamente
+13/12/2025 23:28:08 - INFO - Conexão com a base de dados criada
+14/12/2025 00:13:19 - INFO - criando conexões!
+14/12/2025 00:18:59 - DEBUG - criando as conexões
+14/12/2025 00:19:00 - INFO - criando conexões!
+14/12/2025 00:19:00 - WARNING - criando ou editando a tabela candidatos
+14/12/2025 00:19:00 - INFO - salvar a sessão
+14/12/2025 00:19:00 - INFO - # Alistamento de Candidatos
+14/12/2025 00:19:00 - WARNING - fechando todas as conexões com a base de dados
+14/12/2025 00:19:00 - DEBUG - conectando ao base de dados
+14/12/2025 00:19:00 - INFO - criando conexões!
+14/12/2025 00:19:14 - DEBUG - criando as conexões
+14/12/2025 00:19:14 - INFO - criando conexões!
+14/12/2025 00:19:14 - WARNING - criando ou editando a tabela candidatos
+14/12/2025 00:19:14 - INFO - salvar a sessão
+14/12/2025 00:19:14 - INFO - # Alistamento de Candidatos
+14/12/2025 00:19:14 - WARNING - fechando todas as conexões com a base de dados
+14/12/2025 00:19:14 - DEBUG - conectando ao base de dados
+14/12/2025 00:19:14 - INFO - criando conexões!
+14/12/2025 00:20:37 - DEBUG - criando as conexões
+14/12/2025 00:20:37 - INFO - criando conexões!
+14/12/2025 00:20:37 - WARNING - criando ou editando a tabela candidatos
+14/12/2025 00:20:37 - INFO - salvar a sessão
+14/12/2025 00:20:37 - INFO - # Alistamento de Candidatos
+14/12/2025 00:20:37 - WARNING - fechando todas as conexões com a base de dados
+14/12/2025 00:20:37 - DEBUG - conectando ao base de dados
+14/12/2025 00:20:37 - INFO - criando conexões!
+14/12/2025 00:22:36 - INFO - Criando conexões
+14/12/2025 00:22:36 - INFO - criando conexões!
+14/12/2025 00:22:37 - INFO - salvar as sessões
+14/12/2025 00:22:37 - WARNING - fechar as conexões
+14/12/2025 00:22:38 - INFO - criando conexões!
+14/12/2025 00:22:39 - ERROR - ❌ Erro ao cadastrar:
+14/12/2025 00:22:39 - ERROR - name 'id_unico' is not defined
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 183, in alistar_e
+    con.execute("INSERT INTO ELEITORES (ID, NOME, TELEFONE, BI, LOCALIDADE) VALUES(?,?,?,?,?)",(id_unico,nome, telf, bi, gps))
+                                                                                                ^^^^^^^^
+NameError: name 'id_unico' is not defined
+14/12/2025 00:22:40 - WARNING - fechado as conex
+14/12/2025 00:22:40 - INFO - criando conexões!
+14/12/2025 00:23:43 - INFO - criando conexões!
+14/12/2025 00:23:44 - INFO - criando conexões!
+14/12/2025 00:24:57 - INFO - criando conexões!
+14/12/2025 00:24:57 - INFO - criando conexões!
+14/12/2025 00:24:58 - INFO - criando conexões!
+14/12/2025 00:24:58 - INFO - criando conexões!
+14/12/2025 00:24:58 - INFO - criando conexões!
+14/12/2025 00:25:24 - INFO - criando conexões!
+14/12/2025 00:25:35 - DEBUG - criando as conexões
+14/12/2025 00:25:35 - INFO - criando conexões!
+14/12/2025 00:25:35 - WARNING - criando ou editando a tabela candidatos
+14/12/2025 00:25:35 - INFO - salvar a sessão
+14/12/2025 00:25:35 - INFO - # Alistamento de Candidatos
+14/12/2025 00:25:35 - WARNING - fechando todas as conexões com a base de dados
+14/12/2025 00:25:35 - DEBUG - conectando ao base de dados
+14/12/2025 00:25:35 - INFO - criando conexões!
+14/12/2025 00:25:48 - INFO - Criando conexões
+14/12/2025 00:25:48 - INFO - criando conexões!
+14/12/2025 00:25:48 - INFO - salvar as sessões
+14/12/2025 00:25:48 - WARNING - fechar as conexões
+14/12/2025 00:25:49 - INFO - criando conexões!
+14/12/2025 00:25:50 - ERROR - ❌ Erro ao cadastrar:
+14/12/2025 00:25:50 - ERROR - name 'id_unico' is not defined
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 183, in alistar_e
+    con.execute("INSERT INTO ELEITORES (ID, NOME, TELEFONE, BI, LOCALIDADE) VALUES(?,?,?,?,?)",(id_unico,nome, telf, bi, gps))
+                                                                                                ^^^^^^^^
+NameError: name 'id_unico' is not defined
+14/12/2025 00:25:51 - WARNING - fechado as conex
+14/12/2025 00:25:51 - INFO - criando conexões!
+14/12/2025 00:26:56 - DEBUG - criando as conexões
+14/12/2025 00:26:56 - INFO - criando conexões!
+14/12/2025 00:26:56 - WARNING - criando ou editando a tabela candidatos
+14/12/2025 00:26:56 - INFO - salvar a sessão
+14/12/2025 00:26:56 - INFO - # Alistamento de Candidatos
+14/12/2025 00:26:56 - WARNING - fechando todas as conexões com a base de dados
+14/12/2025 00:26:56 - DEBUG - conectando ao base de dados
+14/12/2025 00:26:56 - INFO - criando conexões!
+14/12/2025 00:29:06 - DEBUG - criando as conexões
+14/12/2025 00:29:06 - INFO - criando conexões!
+14/12/2025 00:29:06 - WARNING - criando ou editando a tabela candidatos
+14/12/2025 00:29:06 - INFO - salvar a sessão
+14/12/2025 00:29:06 - INFO - # Alistamento de Candidatos
+14/12/2025 00:29:06 - WARNING - fechando todas as conexões com a base de dados
+14/12/2025 00:29:06 - DEBUG - conectando ao base de dados
+14/12/2025 00:29:06 - INFO - criando conexões!
+14/12/2025 00:29:06 - INFO - Buscando nomes de candidatos
+14/12/2025 00:29:07 - INFO - ✅ Candidatos cadastrado com sucesso!
+14/12/2025 00:29:08 - WARNING - fechando as conexoes
+14/12/2025 00:29:49 - INFO - Criando conexões
+14/12/2025 00:29:49 - INFO - criando conexões!
+14/12/2025 00:29:49 - INFO - salvar as sessões
+14/12/2025 00:29:49 - WARNING - fechar as conexões
+14/12/2025 00:29:50 - INFO - criando conexões!
+14/12/2025 00:29:51 - INFO - ✅ eleitor cadastrado com sucesso!
+14/12/2025 00:29:52 - WARNING - fechado as conex
+14/12/2025 00:29:52 - INFO - criando conexões!
+14/12/2025 00:31:25 - DEBUG - criando conexão com a base de dados
+14/12/2025 00:31:25 - INFO - criando conexões!
+14/12/2025 00:31:25 - WARNING - criando a tabela votos
+14/12/2025 00:31:25 - DEBUG - conectando ao base de dados
+14/12/2025 00:31:25 - INFO - criando conexões!
+14/12/2025 00:31:25 - INFO - pegando todos os usuários de candidatos
+14/12/2025 00:31:28 - WARNING - fechando a conexão com à base de dados
+14/12/2025 00:31:28 - INFO - 🔎 Buscando todos os candidatos
+14/12/2025 00:31:28 - INFO - 🔎 Buscando todos os votos
+14/12/2025 00:31:28 - INFO - 🔎 Buscando todos os eleitores
+14/12/2025 00:31:29 - INFO - ✅ Voto registrado com sucesso: admin votou em admin.
+14/12/2025 00:31:29 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+14/12/2025 00:32:27 - DEBUG - criando as conexões
+14/12/2025 00:32:27 - INFO - criando conexões!
+14/12/2025 00:32:27 - WARNING - criando ou editando a tabela candidatos
+14/12/2025 00:32:27 - INFO - salvar a sessão
+14/12/2025 00:32:27 - INFO - # Alistamento de Candidatos
+14/12/2025 00:32:27 - WARNING - fechando todas as conexões com a base de dados
+14/12/2025 00:32:27 - DEBUG - conectando ao base de dados
+14/12/2025 00:32:27 - INFO - criando conexões!
+14/12/2025 00:32:27 - INFO - Buscando nomes de candidatos
+14/12/2025 00:32:27 - INFO - ✅ Candidatos cadastrado com sucesso!
+14/12/2025 00:32:28 - WARNING - fechando as conexoes
+14/12/2025 00:32:40 - INFO - Criando conexões
+14/12/2025 00:32:40 - INFO - criando conexões!
+14/12/2025 00:32:40 - INFO - salvar as sessões
+14/12/2025 00:32:40 - WARNING - fechar as conexões
+14/12/2025 00:32:41 - INFO - criando conexões!
+14/12/2025 00:32:42 - INFO - ✅ eleitor cadastrado com sucesso!
+14/12/2025 00:32:43 - WARNING - fechado as conex
+14/12/2025 00:32:43 - INFO - criando conexões!
+14/12/2025 00:46:28 - INFO - criando conexões!
+14/12/2025 00:51:36 - INFO - Criando conexões
+14/12/2025 00:51:37 - INFO - criando conexões!
+14/12/2025 00:51:37 - INFO - salvar as sessões
+14/12/2025 00:51:37 - WARNING - fechar as conexões
+14/12/2025 00:51:38 - INFO - criando conexões!
+14/12/2025 00:51:38 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 00:51:38 - INFO - criando conexões!
+14/12/2025 00:56:12 - INFO - Criando conexões
+14/12/2025 00:56:12 - INFO - criando conexões!
+14/12/2025 00:56:13 - INFO - salvar as sessões
+14/12/2025 00:56:13 - WARNING - fechar as conexões
+14/12/2025 00:56:14 - INFO - criando conexões!
+14/12/2025 00:56:14 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 00:57:12 - INFO - Criando conexões
+14/12/2025 00:57:12 - INFO - criando conexões!
+14/12/2025 00:57:12 - INFO - salvar as sessões
+14/12/2025 00:57:12 - WARNING - fechar as conexões
+14/12/2025 00:57:13 - INFO - criando conexões!
+14/12/2025 00:57:14 - INFO - ✅ eleitor cadastrado com sucesso!
+14/12/2025 00:57:15 - WARNING - fechado as conex
+14/12/2025 00:57:29 - INFO - criando conexões!
+14/12/2025 00:59:34 - INFO - Criando conexões
+14/12/2025 00:59:34 - INFO - criando conexões!
+14/12/2025 00:59:34 - INFO - salvar as sessões
+14/12/2025 00:59:34 - WARNING - fechar as conexões
+14/12/2025 00:59:35 - INFO - criando conexões!
+14/12/2025 00:59:35 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 01:00:27 - INFO - Criando conexões
+14/12/2025 01:00:27 - INFO - criando conexões!
+14/12/2025 01:00:27 - INFO - salvar as sessões
+14/12/2025 01:00:27 - WARNING - fechar as conexões
+14/12/2025 01:00:28 - INFO - criando conexões!
+14/12/2025 01:00:29 - INFO - ✅ eleitor cadastrado com sucesso!
+14/12/2025 01:00:31 - WARNING - fechado as conex
+14/12/2025 01:07:20 - INFO - Criando conexões
+14/12/2025 01:07:21 - INFO - criando conexões!
+14/12/2025 01:07:22 - INFO - salvar as sessões
+14/12/2025 01:07:22 - WARNING - fechar as conexões
+14/12/2025 01:07:23 - INFO - criando conexões!
+14/12/2025 01:07:23 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 01:07:24 - INFO - criando conexões!
+14/12/2025 01:13:48 - DEBUG - criando conexão com a base de dados
+14/12/2025 01:13:49 - INFO - criando conexões!
+14/12/2025 01:13:49 - WARNING - criando a tabela votos
+14/12/2025 01:13:50 - DEBUG - conectando ao base de dados
+14/12/2025 01:13:50 - INFO - criando conexões!
+14/12/2025 01:13:50 - INFO - pegando todos os usuários de candidatos
+14/12/2025 01:13:53 - WARNING - fechando a conexão com à base de dados
+14/12/2025 01:13:53 - INFO - 🔎 Buscando todos os candidatos
+14/12/2025 01:13:53 - INFO - 🔎 Buscando todos os votos
+14/12/2025 01:13:53 - INFO - 🔎 Buscando todos os eleitores
+14/12/2025 01:13:53 - ERROR - ❌ Candidato 'b'gAAAAABpPgE8yo4xCADCRnbsoEthFUIR92oHx1N1mBvyR5SavIswJKSinL-d6NneCpfD48Toykw81m04d2duv6FhgwRgTJ84rw=='' não está na base de dados!
+14/12/2025 01:14:24 - INFO - Criando conexões
+14/12/2025 01:14:24 - INFO - criando conexões!
+14/12/2025 01:14:24 - INFO - salvar as sessões
+14/12/2025 01:14:24 - WARNING - fechar as conexões
+14/12/2025 01:14:25 - INFO - criando conexões!
+14/12/2025 01:14:25 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 01:14:25 - INFO - criando conexões!
+14/12/2025 01:14:31 - DEBUG - criando conexão com a base de dados
+14/12/2025 01:14:31 - INFO - criando conexões!
+14/12/2025 01:14:31 - WARNING - criando a tabela votos
+14/12/2025 01:14:31 - DEBUG - conectando ao base de dados
+14/12/2025 01:14:31 - INFO - criando conexões!
+14/12/2025 01:14:31 - INFO - pegando todos os usuários de candidatos
+14/12/2025 01:14:34 - WARNING - fechando a conexão com à base de dados
+14/12/2025 01:14:34 - INFO - 🔎 Buscando todos os candidatos
+14/12/2025 01:14:34 - INFO - 🔎 Buscando todos os votos
+14/12/2025 01:14:34 - INFO - 🔎 Buscando todos os eleitores
+14/12/2025 01:14:34 - ERROR - ❌ Candidato 'b'gAAAAABpPgFntxkBukZBkO_2GPVc84083zV8QKPG6pHGovINIWB8MX7Fr5j_hUDo_H1dGnUB1sxwPrlaQVmZ_7_VxOteSOmmrw=='' não está na base de dados!
+14/12/2025 01:20:22 - INFO - Criando conexões
+14/12/2025 01:20:22 - INFO - criando conexões!
+14/12/2025 01:20:22 - INFO - salvar as sessões
+14/12/2025 01:20:22 - WARNING - fechar as conexões
+14/12/2025 01:20:23 - INFO - criando conexões!
+14/12/2025 01:20:23 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 01:20:23 - INFO - criando conexões!
+14/12/2025 01:20:27 - DEBUG - criando conexão com a base de dados
+14/12/2025 01:20:27 - INFO - criando conexões!
+14/12/2025 01:20:27 - WARNING - criando a tabela votos
+14/12/2025 01:20:27 - DEBUG - conectando ao base de dados
+14/12/2025 01:20:27 - INFO - criando conexões!
+14/12/2025 01:20:27 - INFO - pegando todos os usuários de candidatos
+14/12/2025 01:20:30 - WARNING - fechando a conexão com à base de dados
+14/12/2025 01:20:30 - INFO - 🔎 Buscando todos os candidatos
+14/12/2025 01:20:30 - INFO - 🔎 Buscando todos os votos
+14/12/2025 01:20:30 - INFO - 🔎 Buscando todos os eleitores
+14/12/2025 01:20:30 - INFO - ✅ Voto registrado com sucesso: Merivalda votou em admin.
+14/12/2025 01:20:30 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+14/12/2025 01:25:28 - INFO - Criando conexões
+14/12/2025 01:25:28 - INFO - criando conexões!
+14/12/2025 01:25:28 - INFO - salvar as sessões
+14/12/2025 01:25:28 - WARNING - fechar as conexões
+14/12/2025 01:25:29 - INFO - criando conexões!
+14/12/2025 01:25:29 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 01:25:29 - INFO - criando conexões!
+14/12/2025 01:25:42 - INFO - criando conexões!
+14/12/2025 01:25:45 - DEBUG - criando conexão com a base de dados
+14/12/2025 01:25:45 - INFO - criando conexões!
+14/12/2025 01:25:45 - WARNING - criando a tabela votos
+14/12/2025 01:25:45 - DEBUG - conectando ao base de dados
+14/12/2025 01:25:45 - INFO - criando conexões!
+14/12/2025 01:25:45 - INFO - pegando todos os usuários de candidatos
+14/12/2025 01:25:48 - WARNING - fechando a conexão com à base de dados
+14/12/2025 01:25:48 - INFO - 🔎 Buscando todos os candidatos
+14/12/2025 01:25:48 - INFO - 🔎 Buscando todos os votos
+14/12/2025 01:25:48 - INFO - 🔎 Buscando todos os eleitores
+14/12/2025 01:25:48 - ERROR - ❌ Erro ao tentar registrar o voto.
+14/12/2025 01:25:48 - ERROR - 'bytes' object has no attribute 'encode'
+Traceback (most recent call last):
+  File "C:\Users\PC\Desktop\projecto_voto\index.py", line 139, in votar
+    eleitor, eleito=encrypt_user(eleitor_c, candidato)
+                    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\Desktop\projecto_voto\crypto.py", line 19, in encrypt_user
+    eleitor_encrypted=fernet.encrypt(eleitor.encode())
+                                     ^^^^^^^^^^^^^^
+AttributeError: 'bytes' object has no attribute 'encode'. Did you mean: 'decode'?
+14/12/2025 01:25:48 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+14/12/2025 01:28:10 - INFO - Criando conexões
+14/12/2025 01:28:10 - INFO - criando conexões!
+14/12/2025 01:28:10 - INFO - salvar as sessões
+14/12/2025 01:28:10 - WARNING - fechar as conexões
+14/12/2025 01:28:11 - INFO - criando conexões!
+14/12/2025 01:28:12 - INFO - ✅ eleitor cadastrado com sucesso!
+14/12/2025 01:28:14 - WARNING - fechado as conex
+14/12/2025 01:28:14 - INFO - criando conexões!
+14/12/2025 01:35:53 - INFO - Criando conexões
+14/12/2025 01:35:54 - INFO - criando conexões!
+14/12/2025 01:35:55 - INFO - salvar as sessões
+14/12/2025 01:35:55 - WARNING - fechar as conexões
+14/12/2025 01:35:56 - INFO - criando conexões!
+14/12/2025 01:35:57 - INFO - ✅ eleitor cadastrado com sucesso!
+14/12/2025 01:35:58 - WARNING - fechado as conex
+14/12/2025 01:35:59 - INFO - criando conexões!
+14/12/2025 01:38:01 - INFO - Criando conexões
+14/12/2025 01:38:01 - INFO - criando conexões!
+14/12/2025 01:38:01 - INFO - salvar as sessões
+14/12/2025 01:38:01 - WARNING - fechar as conexões
+14/12/2025 01:38:02 - INFO - criando conexões!
+14/12/2025 01:38:02 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 01:38:02 - INFO - criando conexões!
+14/12/2025 01:48:31 - INFO - criando conexões!
+14/12/2025 01:49:07 - DEBUG - criando as conexões
+14/12/2025 01:49:07 - INFO - criando conexões!
+14/12/2025 01:49:07 - WARNING - criando ou editando a tabela candidatos
+14/12/2025 01:49:07 - INFO - salvar a sessão
+14/12/2025 01:49:07 - INFO - # Alistamento de Candidatos
+14/12/2025 01:49:07 - WARNING - fechando todas as conexões com a base de dados
+14/12/2025 01:49:07 - DEBUG - conectando ao base de dados
+14/12/2025 01:49:07 - INFO - criando conexões!
+14/12/2025 01:49:07 - INFO - Buscando nomes de candidatos
+14/12/2025 01:49:07 - INFO - ✅ Candidatos cadastrado com sucesso!
+14/12/2025 01:49:08 - WARNING - fechando as conexoes
+14/12/2025 01:49:18 - INFO - criando conexões!
+14/12/2025 01:50:51 - INFO - Criando conexões
+14/12/2025 01:50:51 - INFO - criando conexões!
+14/12/2025 01:50:51 - INFO - salvar as sessões
+14/12/2025 01:50:51 - WARNING - fechar as conexões
+14/12/2025 01:50:52 - INFO - criando conexões!
+14/12/2025 01:50:52 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 01:50:52 - INFO - criando conexões!
+14/12/2025 01:51:11 - INFO - criando conexões!
+14/12/2025 01:51:13 - INFO - criando conexões!
+14/12/2025 01:52:11 - INFO - Criando conexões
+14/12/2025 01:52:11 - INFO - criando conexões!
+14/12/2025 01:52:11 - INFO - salvar as sessões
+14/12/2025 01:52:11 - WARNING - fechar as conexões
+14/12/2025 01:52:12 - INFO - criando conexões!
+14/12/2025 01:52:13 - INFO - ✅ eleitor cadastrado com sucesso!
+14/12/2025 01:52:14 - WARNING - fechado as conex
+14/12/2025 01:52:14 - INFO - criando conexões!
+14/12/2025 01:52:40 - INFO - criando conexões!
+14/12/2025 01:53:18 - INFO - criando conexões!
+14/12/2025 01:53:53 - INFO - criando conexões!
+14/12/2025 01:54:28 - INFO - criando conexões!
+14/12/2025 01:54:29 - INFO - criando conexões!
+14/12/2025 01:55:04 - INFO - criando conexões!
+14/12/2025 01:58:07 - INFO - criando conexões!
+14/12/2025 01:58:24 - INFO - criando conexões!
+14/12/2025 02:09:11 - INFO - criando conexões!
+14/12/2025 02:09:49 - INFO - Criando conexões
+14/12/2025 02:09:49 - INFO - criando conexões!
+14/12/2025 02:09:49 - INFO - salvar as sessões
+14/12/2025 02:09:49 - WARNING - fechar as conexões
+14/12/2025 02:09:50 - INFO - criando conexões!
+14/12/2025 02:09:50 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 02:09:51 - INFO - criando conexões!
+14/12/2025 02:09:55 - DEBUG - criando conexão com a base de dados
+14/12/2025 02:09:55 - INFO - criando conexões!
+14/12/2025 02:09:55 - WARNING - criando a tabela votos
+14/12/2025 02:09:55 - DEBUG - conectando ao base de dados
+14/12/2025 02:09:55 - INFO - criando conexões!
+14/12/2025 02:09:55 - INFO - pegando todos os usuários de candidatos
+14/12/2025 02:10:01 - WARNING - fechando a conexão com à base de dados
+14/12/2025 02:10:01 - INFO - 🔎 Buscando todos os candidatos
+14/12/2025 02:10:01 - INFO - 🔎 Buscando todos os votos
+14/12/2025 02:10:01 - INFO - 🔎 Buscando todos os eleitores
+14/12/2025 02:10:02 - ERROR - ❌ Erro ao tentar registrar o voto.
+14/12/2025 02:10:02 - ERROR - 
+Traceback (most recent call last):
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python313\Lib\site-packages\cryptography\fernet.py", line 113, in _get_unverified_token_data
+    data = base64.urlsafe_b64decode(token)
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python313\Lib\base64.py", line 134, in urlsafe_b64decode
+    return b64decode(s)
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python313\Lib\base64.py", line 88, in b64decode
+    return binascii.a2b_base64(s, strict_mode=validate)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+binascii.Error: Invalid base64-encoded string: number of data characters (5) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PC\Desktop\projecto_voto\index.py", line 139, in votar
+    eleitor_cry, eleito_cry=decrypt_user(eleitor_c, candidato)
+                            ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC\Desktop\projecto_voto\crypto.py", line 28, in decrypt_user
+    eleitor_decrypted=fernet.decrypt(eleitor_encrypted).decode()
+                      ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python313\Lib\site-packages\cryptography\fernet.py", line 84, in decrypt
+    timestamp, data = Fernet._get_unverified_token_data(token)
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python313\Lib\site-packages\cryptography\fernet.py", line 115, in _get_unverified_token_data
+    raise InvalidToken
+cryptography.fernet.InvalidToken
+14/12/2025 02:10:18 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+14/12/2025 02:10:18 - INFO - criando conexões!
+14/12/2025 02:12:11 - INFO - criando conexões!
+14/12/2025 02:12:22 - INFO - Criando conexões
+14/12/2025 02:12:22 - INFO - criando conexões!
+14/12/2025 02:12:22 - INFO - salvar as sessões
+14/12/2025 02:12:22 - WARNING - fechar as conexões
+14/12/2025 02:12:23 - INFO - criando conexões!
+14/12/2025 02:12:23 - ERROR - 🚫 Não vai ser inserido este nome porque já está na base de dados!
+14/12/2025 02:12:23 - INFO - criando conexões!
+14/12/2025 02:12:25 - DEBUG - criando conexão com a base de dados
+14/12/2025 02:12:25 - INFO - criando conexões!
+14/12/2025 02:12:25 - WARNING - criando a tabela votos
+14/12/2025 02:12:25 - DEBUG - conectando ao base de dados
+14/12/2025 02:12:25 - INFO - criando conexões!
+14/12/2025 02:12:25 - INFO - pegando todos os usuários de candidatos
+14/12/2025 02:12:31 - WARNING - fechando a conexão com à base de dados
+14/12/2025 02:12:31 - INFO - 🔎 Buscando todos os candidatos
+14/12/2025 02:12:31 - INFO - 🔎 Buscando todos os votos
+14/12/2025 02:12:31 - INFO - 🔎 Buscando todos os eleitores
+14/12/2025 02:12:31 - INFO - ✅ Voto registrado com sucesso: joana votou em Rayana Paulo.
+14/12/2025 02:12:31 - WARNING - ⚠️ Fechando a conexão com a base de dados.
+14/12/2025 02:12:31 - INFO - criando conexões!

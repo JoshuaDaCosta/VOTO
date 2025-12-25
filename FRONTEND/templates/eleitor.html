@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+    <link rel="stylesheet" href="../static/css/login.css">
+    <link rel="stylesheet" href="../static/css/criar.css">
+
+    <title>SISTEMA DE VOTO | ELEITOR</title>
+</head>
+<body>
+    
+    
+
+    <form action="{{ url_for('eleitor') }}" method="POST">
+        <h1>eleitor</h1>
+
+        <span>
+        <label for="username">Nome</label>
+        <input type="text" id="username" name="username" required>
+
+        <br><br>
+        <label for="telf">telf</label>
+        <input type="phone" id="telf" name="phone" required>
+
+        <br><br>
+        <label for="bi">Bilhete de identidade</label>
+        <input type="text" id="bi" name="bi" required>
+
+        <br><br>
+        <label for="gps">localidade</label>
+        <input type="text" id="gps" name="gps" required>
+        </span>
+        <br><br>
+        
+        <button type="submit">seguir</button>
+    
+        
+    </form>
+    
+</body>
+</html>

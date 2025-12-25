@@ -1,0 +1,172 @@
+*{
+    /*border:1px dashed brown;*/
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    scroll-behavior: auto;
+}
+
+body{
+    
+    background-image: url("/static/img/image (1).png");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    height: 100vh;
+    display: flex;
+    flex-direction:reverse;
+    justify-content: center;
+    align-content: center;
+    padding:30px;
+}
+
+form{
+    background-color: blue;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    padding:20px;
+    margin:20px 0 20px 0;
+    border-radius: 30px;
+}
+h1{
+    font-size:20pt;
+    text-align: center;
+    color:white;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+.texto{
+    font-size:14pt;
+    text-align: center;
+    opacity: 0.4;
+    color:white;
+    margin-bottom: 10px;
+}
+form>span:nth-child(3){
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:5px;
+    margin-bottom: 10px;
+    padding:10px
+}
+label{
+    font-size:14pt;
+    color:white;
+    align-self: flex-start;
+    text-transform: capitalize;
+    margin: 0 20px;
+}
+input {
+      border: none;
+      width: 100%;
+  border-bottom: 2px solid #ffff; /* só uma linha */
+  background: transparent;
+  padding: 8px 4px;
+  font-size: 16px;
+  outline: none;
+   -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
+  box-shadow: 0 0 0px 1000px transparent inset !important;
+  -webkit-text-fill-color: whitesmoke !important; /* mantém a cor do texto normal */
+  transition: background-color 9999s ease-in-out 0s;
+  padding-left: 30px;
+}
+input:focus {
+  border-bottom-color: #152f4b; /* muda de cor quando escreve */
+  background: transparent;
+  color:white;
+  -webkit-text-fill-color: whitesmoke !important; /* cor do texto ao focar */
+}
+button{
+    text-decoration: none;
+    font-size:14pt;
+    text-transform: uppercase;
+    color: #0045A4;
+    background-color: whitesmoke;
+    padding:20px;
+    width: 200px;
+    height: 60px;
+    font-weight: 600;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 6px 10px rgba(0, 69, 164, 0.6);
+    transition: background-color 0.3s ease-out;
+    align-self: center;
+    margin-top: 20px;
+    border:none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #0045A4;
+    color:whitesmoke;
+}
+
+form>div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content:center;
+    justify-items: center;
+    width: 100%;
+    margin-top: 30px;
+    padding-left:30px;
+    text-transform: capitalize;
+}
+form>div>p>a{
+    text-decoration: none;
+    font-size:12pt;
+    text-transform: capitalize;
+    color: white;
+    opacity: 0.6;
+    transition: border 0.3s ease-out;
+    transition: padding 0.3s ease-out;
+}   
+
+.alerts {
+  padding: 12px 15px;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+  
+  animation: fadeOut 0.5s ease-out 5s forwards; /* opcional: desaparece sozinho */
+  position:absolute;
+  top:10%;
+  left:50%;
+    z-index: 1000; /* acima de outros elementos */
+
+}
+
+.alert.success {
+  background-color: #28a745; /* verde */
+}
+.alert{
+    padding:15px;
+      width: 700px;
+  max-width: 50%; /* largura máxima */
+  text-align: center;
+  z-index: 1000; /* acima de outros elementos */
+  border-radius: 8px;
+}
+.alert.error {
+  background-color: #dc3545; /* vermelho */
+
+}
+
+.alert.info {
+  background-color: #17a2b8; /* azul */
+}
+div>img{
+    margin: 10px 20px;
+}
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+}

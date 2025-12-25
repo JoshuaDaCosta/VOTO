@@ -1,0 +1,65 @@
+<!-- dashboard.html -->
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard Votos</title>
+    <link rel="stylesheet" href="../static/css/index.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.3/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gradient-to-r from-purple-200 via-pink-200 to-yellow-200 p-6">
+
+<div class="max-w-4xl mx-auto container-css">
+    <h1 class="text-3xl font-bold text-center mb-6">📊 Resultados das Eleições</h1>
+    <!-- links para ir votar! -->
+<a href="/eleitor" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Votar</a>
+<a href="/candidato" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded ml-2">Cadastrar Candidato</a>
+    <!-- Gráfico -->
+    <canvas id="votosChart" class="mb-10" width="50" height="100"></canvas>
+    
+    <!-- Hashes dos eleitores -->
+    <div class="bg-white p-4 rounded shadow-lg">
+        <h2 class="font-semibold text-xl mb-2">Hashes dos Eleitores</h2>
+        <ul class="overflow-y-auto max-h-60">
+            {% for h in votos_hash %}
+            <li class="py-1 px-2 border-b border-gray-200 rounded mb-1">{{ h }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+<script>
+const ctx = document.getElementById('votosChart').getContext('2d');
+const resultados = {{ resultados | tojson }};
+const labels = Object.keys(resultados);
+const data = Object.values(resultados);
+
+new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: labels,
+        datasets: [{
+            label: 'Votos por candidato',
+            data: data,
+            backgroundColor: ['#f87171','#60a5fa','#34d399','#fbbf24','#a78bfa'],
+            borderRadius: 5
+        }]
+    },
+    options: {
+        responsive: true,
+        plugins: {
+            legend: { display: false },
+            tooltip: { enabled: true }
+        },
+        scales: {
+            y: {
+                beginAtZero: true,
+                ticks: { stepSize: 1 }
+            }
+        }
+    }
+});
+</script>
+</body>
+</html>
