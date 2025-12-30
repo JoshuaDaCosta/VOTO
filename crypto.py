@@ -18,10 +18,4 @@ def hash_user(valor: str) -> str:
     import hashlib
     return hashlib.sha256((valor).encode()).hexdigest()
 
-# 🔥 TESTE CORRETO
-if __name__ == "__main__":
-    x = encrypt_user("joshua")
-    print("ENCRYPT:", x)
 
-    y = decrypt_user(x)
-    print("DECRYPT:", y)

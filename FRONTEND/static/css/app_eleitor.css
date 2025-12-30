@@ -1,0 +1,64 @@
+*{
+    /* border:1px dashed brown; */
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    scroll-behavior: auto;
+}
+
+h1{
+    font-size: 20pt;
+    margin:10px;
+    width: auto;
+    text-align: center;
+}
+h2{
+    font-size: 15pt;
+    font-weight: 400;
+    margin-left:10px
+}
+
+form{
+    border:1px dashed green;
+    margin:20px 20px;
+    padding:20px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+
+}
+.candidato-card{
+    display: flex;
+    flex-direction: column;
+    gap:7.5px;
+
+}
+.candidato-card>h4, p{
+    font-weight: 600;
+}
+span{
+    font-weight: 300;
+    text-transform: capitalize;
+}
+button{
+        text-decoration: none;
+    font-size:14pt;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: rgb(68, 209, 25);
+    padding:20px;
+    width: 150px;
+    height: 60px;
+    font-weight: 600;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 5px rgba(3, 223, 120, 0.6);
+    transition: background-color 0.3s ease-out;
+    align-self: center;
+    margin-top: 20px;
+    border:none;
+    cursor: pointer;
+    text-align: center;
+}

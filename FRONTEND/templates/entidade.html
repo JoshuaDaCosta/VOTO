@@ -9,10 +9,17 @@
     <title>SISTEMA DE VOTO | ENTIDADE</title>
 </head>
 <body>
-    <main>
-    <span><a href="/eleitor">entrar na sua conta</a></span>
-    <span><a href="/candidato">criar uma conta</a></span>
     
-    </main>
+
+<h1>Sistema de voto</h1>
+<p>Seja bem vindo ao sistema de voto. <br>
+De momento não temos nenhum voto para apresentar</p>
+<div>
+
+    <a href="{{ url_for('eleitor') }}">eleitor</a>
+    <a href="{{ url_for('candidato') }}">candidato</a>
+</div>
+    
+    
 </body>
 </html>

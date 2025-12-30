@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
-
+    <link rel="stylesheet" href="../static/css/app_eleitor.css">
     <title>SISTEMA DE VOTO | APP_ELEITOR</title>
 </head>
 <body>
@@ -18,21 +18,21 @@
             </div>
         {% endif %}
     {% endwith %} -->
-    <h3>Bem-vindo ao Sistema de Votação</h3>
+    <h1>Bem-vindo ao Sistema de Votação</h3>
     <h2>Escolha um candidato para votar:</h2>
 
     
     {% for candidato in candidatos %}
-    <form method="POST" action="{{ url_for('votar', candidato_id=candidato[1]) }}">
-        
-        <div class="candidato-card">
-            <h2>Nome: {{ candidato[1] }}</h2>
-            <p>Telefone: {{ candidato[2] }}</p>
-            <p>Email: {{ candidato[4] }}</p>
-            <p>Partido: {{ candidato[3] }}</p>
-        </div>
-        <button type="submit">Votar</button>
-    </form>
+        <form method="POST" action="{{ url_for('votar', candidato_id=candidato[1]) }}">
+            
+            <div class="candidato-card">
+                <h4>Nome: <span>{{ candidato[1] }}</span></h2>
+                <p>Telefone: <span>{{ candidato[2] }}</span></p>
+                <p>Email: <span>{{ candidato[4] }}</span></p>
+                <p>Partido: <span>{{ candidato[3] }}</span></p>
+            </div>
+            <button type="submit">Votar</button>
+        </form>
     {% endfor %}
     
 </body>

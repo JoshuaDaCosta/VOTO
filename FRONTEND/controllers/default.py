@@ -11,11 +11,14 @@ from crypto import encrypt_user, decrypt_user
 
 @FRONTEND.route("/")
 def home():
-    #mostrar quantos votos tem cada candidato
-    sy=Voto()
-    resultados=sy.apurar_votos()
-    votos_hash = sy.listar_hash_eleitores()
-    return render_template("index.html", resultados=resultados, votos_hash=votos_hash)
+    try:
+        sy=Voto()
+        resultados=sy.apurar_votos()
+        votos_hash = sy.listar_hash_eleitores()
+        return render_template("index.html", resultados=resultados, votos_hash=votos_hash)
+    except Exception as e:
+        return render_template("entidade.html")
+
 
 @FRONTEND.route("/candidato", methods=["GET", "POST"])
 def candidato():
