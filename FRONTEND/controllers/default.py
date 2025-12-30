@@ -1,6 +1,6 @@
 from datetime import datetime
 from flask import*
-from flask import render_template, request, redirect, url_for, session, abort
+from flask import render_template, request, redirect, url_for, session, abort, flash
 from index import Voto
 import sqlite3
 from FRONTEND import FRONTEND
@@ -51,20 +51,23 @@ def app_candidato():
 
 @FRONTEND.route("/app_eleitor", methods=["GET", "POST"])
 def app_eleitor():
-    con=Voto.conexao(self=None)
-    cursor=con.cursor()
-    cursor.execute("SELECT * FROM CANDIDATOS")
-    candidatos=cursor.fetchall()
-    flash("Candidatos carregados com sucesso!", "success")
-    for i in range(len(candidatos)):
+    try:
+        con=Voto.conexao(self=None)
+        cursor=con.cursor()
+        cursor.execute("SELECT * FROM CANDIDATOS")
+        candidatos=cursor.fetchall()
+        for i in range(len(candidatos)):
 
-        nome_d=decrypt_user(candidatos[i][1])
-        telefone_d=decrypt_user(candidatos[i][2])
-        partido_d=decrypt_user(candidatos[i][3])
-        email_d=decrypt_user(candidatos[i][4])
-        candidatos[i]=[candidatos[i][0], nome_d, telefone_d, partido_d, email_d]
-        
-    return render_template("app_eleitor.html", candidatos=candidatos)
+            nome_d=decrypt_user(candidatos[i][1])
+            telefone_d=decrypt_user(candidatos[i][2])
+            partido_d=decrypt_user(candidatos[i][3])
+            email_d=decrypt_user(candidatos[i][4])
+            candidatos[i]=[candidatos[i][0], nome_d, telefone_d, partido_d, email_d]
+            
+        return render_template("app_eleitor.html", candidatos=candidatos)
+    except Exception as e:
+        abort(404)
+        return redirect("/")
 
 @FRONTEND.route("/eleitor", methods=["GET", "POST"])
 def eleitor():
